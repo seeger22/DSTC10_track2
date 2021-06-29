@@ -353,7 +353,7 @@
                     "score": -51.32601545176758
                 }
             ],
-            "template": "oh awesome ok and then after that umm probably we'll be tired and i'll need a place to sleepe so is there a place to stay in <attraction-100189> kinda in the moderate price range a hotel maybe wi a 2 star",
+            "template": "oh awesome ok and then after that umm probably we'll be tired and i'll need a place to sleepe so is there a place to stay in <attraction-100189> kinda in the moderate price range a hotel maybe with a 2 star",
             "id_map": {
                 "<attraction-100189>": "union square"
             }
@@ -361,7 +361,7 @@
         {
             "speaker": "S",
             "text": "sure what i'm finding is five different locations with those specifications i recommend you checking out the grant hotel in union square",
-            "template": "sure what i'm finding is 5 different locations wi those specifications i recommend you checking out the <hotel-110053> in <attraction-100189>",
+            "template": "sure what i'm finding is 5 different locations with those specifications i recommend you checking out the <hotel-110053> in <attraction-100189>",
             "id_map": {
                 "<hotel-110053>": "grant hotel",
                 "<attraction-100189>": "union square"
@@ -552,7 +552,7 @@
         {
             "speaker": "S",
             "text": "sure i'm finding just one location with those attributes uhhh it's in balboa terrace and it's called gregangelo's velocity arts and entertainment",
-            "template": "sure i'm finding just 1 location wi those attributes uhhh it's in balboa terrace and it's called <attraction-100072>",
+            "template": "sure i'm finding just 1 location with those attributes uhhh it's in balboa terrace and it's called <attraction-100072>",
             "id_map": {
                 "<attraction-100072>": "gregangelo's velocity arts and entertainment"
             }
@@ -704,7 +704,7 @@
                     "score": -35.84911333074063
                 }
             ],
-            "template": "ok that's fine u can you also help me find japanese restaurant wi a moderate price range in the same area",
+            "template": "ok that's fine u can you also help me find japanese restaurant with a moderate price range in the same area",
             "id_map": {}
         }
     ],
@@ -754,7 +754,7 @@
                     "score": -34.93271272931113
                 }
             ],
-            "template": "hello i'm planning my trip to <attraction-100180> and i was wondering if there's ip cood museum that i can go wi you there",
+            "template": "hello i'm planning my trip to <attraction-100180> and i was wondering if there's ip cood museum that i can go with you there",
             "id_map": {
                 "<attraction-100180>": "san francisco"
             }
@@ -1079,9 +1079,10 @@
         {
             "speaker": "S",
             "text": "definetely i am showing one location it's called the park tavern it's in north beach",
-            "template": "definetely i am showing 1 location it's called the <restaurant-120308> it's in nor beach",
+            "template": "definetely i am showing 1 location it's called the <restaurant-120308> it's in <attraction-100113>",
             "id_map": {
-                "<restaurant-120308>": "park tavern"
+                "<restaurant-120308>": "park tavern",
+                "<attraction-100113>": "north beach"
             }
         },
         {
@@ -1343,7 +1344,7 @@
         {
             "speaker": "S",
             "text": "yeah let me see what's available looks like seven p. m. is available and i've successfully booked that table for you with the code being w. o. eight b. t. x.",
-            "template": "yeah let me see what's available looks like 7 p. m. is available and i've successfully booked that table for you wi the code being w. o. 8 b. t. x.",
+            "template": "yeah let me see what's available looks like 7 p. m. is available and i've successfully booked that table for you with the code being w. o. 8 b. t. x.",
             "id_map": {}
         },
         {
@@ -1449,8 +1450,10 @@
         {
             "speaker": "S",
             "text": "sure i'll be happy to help with that i'm noticing one park in russian hill and it's called ina coolbrith park",
-            "template": "sure i'll be happy to help wi that i'm noticing 1 park in russian hill and it's called ina coolbri park",
-            "id_map": {}
+            "template": "sure i'll be happy to help with that i'm noticing 1 park in russian hill and it's called <attraction-100082>",
+            "id_map": {
+                "<attraction-100082>": "ina coolbrith park"
+            }
         },
         {
             "speaker": "U",
@@ -1749,7 +1752,7 @@
                     "score": -67.06855504198018
                 }
             ],
-            "template": "ok 941 zerah all right umm yeah i'll be travelling wi uh my lave does u l pool ife wat's tree wh i fine",
+            "template": "ok 941 zerah all right umm yeah i'll be travelling with uh my lave does u l pool ife wat's tree wh i fine",
             "id_map": {}
         },
         {
@@ -1853,7 +1856,7 @@
                     "score": -51.19156787283944
                 }
             ],
-            "template": "hey i'm looking for a place to stay uh in the tenderloin that's a hotel wi a 3 star rating as and is in the cheap price range",
+            "template": "hey i'm looking for a place to stay uh in the tenderloin that's a hotel with a 3 star rating as and is in the cheap price range",
             "id_map": {}
         },
         {
@@ -2009,7 +2012,7 @@
                     "score": -30.808840144062337
                 }
             ],
-            "template": "wi thursday work",
+            "template": "with thursday work",
             "id_map": {}
         },
         {
@@ -2293,7 +2296,7 @@
                     "score": -36.171762929060975
                 }
             ],
-            "template": "umm so i'm planning a trip to <attraction-100180> and i'm looking for a hotel in <attraction-100140> could you help me wi that",
+            "template": "umm so i'm planning a trip to <attraction-100180> and i'm looking for a hotel in <attraction-100140> could you help me with that",
             "id_map": {
                 "<attraction-100180>": "san francisco",
                 "<attraction-100140>": "chinatown"
@@ -2302,7 +2305,7 @@
         {
             "speaker": "S",
             "text": "uhhh sure can let me see what's available in chinatown. i'm kinda finding quite a few locations uhhh is there maybe a price range that i can narrow down with cheap or moderate",
-            "template": "uhhh sure can let me see what's available in <attraction-100140>. i'm kinda finding quite a few locations uhhh is there maybe a price range that i can narrow down wi cheap or moderate",
+            "template": "uhhh sure can let me see what's available in <attraction-100140>. i'm kinda finding quite a few locations uhhh is there maybe a price range that i can narrow down with cheap or moderate",
             "id_map": {
                 "<attraction-100140>": "chinatown"
             }
@@ -2760,7 +2763,7 @@
         {
             "speaker": "S",
             "text": "ok sure let me go ahead and see what i can find there. all right nothing is showing up with those specification is there something that i can change instead",
-            "template": "ok sure let me go ahead and see what i can find there. all right nothing is showing up wi those specification is there something that i can change instead",
+            "template": "ok sure let me go ahead and see what i can find there. all right nothing is showing up with those specification is there something that i can change instead",
             "id_map": {}
         },
         {
@@ -3777,7 +3780,7 @@
                     "score": -20.758298279119515
                 }
             ],
-            "template": "perfect 10 is there a park in that aat",
+            "template": "perfect th is there a park in that aat",
             "id_map": {}
         }
     ],
@@ -4239,7 +4242,7 @@
                     "score": -20.758298279119515
                 }
             ],
-            "template": "perfect 10 is there a park in that aat",
+            "template": "perfect th is there a park in that aat",
             "id_map": {}
         },
         {
@@ -5254,7 +5257,7 @@
         {
             "speaker": "S",
             "text": "ok sure let me go and see what i can pull up for you ok unfortunately nothing is showing up with all of those specifications is there something that i can change",
-            "template": "ok sure let me go and see what i can pull up for you ok unfortunately nothing is showing up wi all of those specifications is there something that i can change",
+            "template": "ok sure let me go and see what i can pull up for you ok unfortunately nothing is showing up with all of those specifications is there something that i can change",
             "id_map": {}
         },
         {
@@ -5391,7 +5394,7 @@
                     "score": -45.09186386075849
                 }
             ],
-            "template": "hi i'm planning a trip to you <attraction-100180> foon and i'm looking for a cheap place to stay in the mission inn wi a average star rating ave 2 stars",
+            "template": "hi i'm planning a trip to you <attraction-100180> foon and i'm looking for a cheap place to stay in the mission inn with a average star rating ave 2 stars",
             "id_map": {
                 "<attraction-100180>": "san francisco"
             }
@@ -5759,7 +5762,7 @@
         {
             "speaker": "S",
             "text": "address is one zoo road with the phone number four one five seven five three seven zero eight zero",
-            "template": "address is 1 zoo road wi the phone number 4157537080",
+            "template": "address is 1 zoo road with the phone number 4157537080",
             "id_map": {}
         },
         {
@@ -6911,7 +6914,7 @@
         {
             "speaker": "S",
             "text": "yeah let me see what's available looks like seven p. m. is available and i've successfully booked that table for you with the code being w. o. eight b. t. x.",
-            "template": "yeah let me see what's available looks like 7 p. m. is available and i've successfully booked that table for you wi the code being w. o. 8 b. t. x.",
+            "template": "yeah let me see what's available looks like 7 p. m. is available and i've successfully booked that table for you with the code being w. o. 8 b. t. x.",
             "id_map": {}
         },
         {
@@ -7124,7 +7127,7 @@
                     "score": -96.77732462948106
                 }
             ],
-            "template": "got it ok par chic the zip code thank you uh an finally yeah ummm i need place to stay that night ummm i' really i' mo find in the mission area and i gown i'm s go ing a expensive price range ummm and i' wast o me k i gos o'd like to bed and breakfast umm wi a star of to at least any recommendations",
+            "template": "got it ok par chic the zip code thank you uh an finally yeah ummm i need place to stay that night ummm i' really i' mo find in the mission area and i gown i'm s go ing a expensive price range ummm and i' wast o me k i gos o'd like to bed and breakfast umm with a star of to at least any recommendations",
             "id_map": {}
         },
         {
@@ -7698,7 +7701,7 @@
         {
             "speaker": "S",
             "text": "ok no problem i actually find exactly one location with all those attributes and it's called swan oyster depot it's in nob hill area they serve seafood and they're moderately priced",
-            "template": "ok no problem i actually find exactly 1 location wi all those attributes and it's called <restaurant-120413> it's in nob hill area they serve seafood and they're moderately priced",
+            "template": "ok no problem i actually find exactly 1 location with all those attributes and it's called <restaurant-120413> it's in nob hill area they serve seafood and they're moderately priced",
             "id_map": {
                 "<restaurant-120413>": "swan oyster depot"
             }
@@ -7766,7 +7769,7 @@
                     "score": -59.79917293311972
                 }
             ],
-            "template": "hi there i'm planning i'm making a trip to <attraction-100180> i'm wondering if you go to help me find a place to stay in <attraction-100189> like a hotel wi 2 stars confer ably in the moderate price range could you be able to help me go tha",
+            "template": "hi there i'm planning i'm making a trip to <attraction-100180> i'm wondering if you go to help me find a place to stay in <attraction-100189> like a hotel with 2 stars confer ably in the moderate price range could you be able to help me goth tha",
             "id_map": {
                 "<attraction-100180>": "san francisco",
                 "<attraction-100189>": "union square"
@@ -7904,7 +7907,7 @@
         {
             "speaker": "S",
             "text": "yeah let me see if that's listed here all right so it does say that the guest rooms are both heated and air conditioned there",
-            "template": "yeah let me see if that's listed here all right so it does say that the guest rooms are bo heated and air conditioned there",
+            "template": "yeah let me see if that's listed here all right so it does say that the guest rooms are both heated and air conditioned there",
             "id_map": {}
         },
         {
@@ -8006,7 +8009,7 @@
                     "score": -30.13700356930857
                 }
             ],
-            "template": "fect thank you yeah and 1 s you voe non wi that i need another prave quest",
+            "template": "fect thank you yeah and 1 s you voe non with that i need another prave quest",
             "id_map": {}
         },
         {
@@ -8060,7 +8063,7 @@
                     "score": -42.784699957854436
                 }
             ],
-            "template": "i umm uh i'ld like to go wi stor cin blob in the same area could you help me find 1 for me",
+            "template": "i umm uh i'ld like to go with stor cin blob in the same area could you help me find 1 for me",
             "id_map": {}
         }
     ],
@@ -8174,7 +8177,7 @@
         {
             "speaker": "S",
             "text": "sure phone number is four one five five seven one eight seven eight zero with the zip code nine four one one eight",
-            "template": "sure phone number is 4155718780 wi the zip code 94118",
+            "template": "sure phone number is 4155718780 with the zip code 94118",
             "id_map": {}
         },
         {
@@ -8294,7 +8297,7 @@
                     "score": -42.0981068759455
                 }
             ],
-            "template": "nice ummm do you have a confirmation code you can share wi me",
+            "template": "nice ummm do you have a confirmation code you can share with me",
             "id_map": {}
         }
     ],
@@ -8320,13 +8323,13 @@
                     "score": -35.32726012982441
                 }
             ],
-            "template": "hey i'm looking for a place to stay in sou beach that's a hotel wi a 4 star rat in",
+            "template": "hey i'm looking for a place to stay in south beach that's a hotel with a 4 star rat in",
             "id_map": {}
         },
         {
             "speaker": "S",
             "text": "sure i'll be happy to help you out with that so i'm finding three locations uhhh there's the hotel vitale and hotel via and i i recommend excuse me the harbor court hotel",
-            "template": "sure i'll be happy to help you out wi that so i'm finding 3 locations uhhh there's the <hotel-110094> and hotel via and i i recommend excuse me the <hotel-110059>",
+            "template": "sure i'll be happy to help you out with that so i'm finding 3 locations uhhh there's the <hotel-110094> and hotel via and i i recommend excuse me the <hotel-110059>",
             "id_map": {
                 "<hotel-110059>": "harbor court hotel",
                 "<hotel-110094>": "hotel vitale"
@@ -8662,7 +8665,7 @@
                     "score": -66.32363785269648
                 }
             ],
-            "template": "hey there i i'm go hing to <attraction-100180> and i'm looking for a place to stay in the western addition looking for something that's a moderate price range uh hop play thet and breakfast wi at least 3 stars or higher do you have any options",
+            "template": "hey there i i'm go hing to <attraction-100180> and i'm looking for a place to stay in the western addition looking for something that's a moderate price range uh hop play thet and breakfast with at least 3 stars or higher do you have any options",
             "id_map": {
                 "<attraction-100180>": "san francisco"
             }
@@ -8868,7 +8871,7 @@
         {
             "speaker": "S",
             "text": "ok let me see what i can find for you. all right with all of those specifications i can't find anything is there something i can change",
-            "template": "ok let me see what i can find for you. all right wi all of those specifications i can't find anything is there something i can change",
+            "template": "ok let me see what i can find for you. all right with all of those specifications i can't find anything is there something i can change",
             "id_map": {}
         },
         {
@@ -9026,7 +9029,7 @@
                     "score": -35.019955675217574
                 }
             ],
-            "template": "excellent and ummm do you i the check out plen is",
+            "template": "excellent and ummm do you ith the check out plen is",
             "id_map": {}
         },
         {
@@ -9186,7 +9189,7 @@
         {
             "speaker": "S",
             "text": "sure let me check what they have. ok nothing with those specifications can i change one of those to possibly find something",
-            "template": "sure let me check what they have. ok nothing wi those specifications can i change 1 of those to possibly find something",
+            "template": "sure let me check what they have. ok nothing with those specifications can i change 1 of those to possibly find something",
             "id_map": {}
         },
         {
@@ -9394,7 +9397,7 @@
                     "score": -45.23020286007829
                 }
             ],
-            "template": "hello so r if you cou help me find hotel an uh <attraction-100059> that's a moderately priced wi a 3 star rating",
+            "template": "hello so r if you cou help me find hotel an uh <attraction-100059> that's a moderately priced with a 3 star rating",
             "id_map": {
                 "<attraction-100059>": "fisherman's wharf"
             }
@@ -9511,7 +9514,7 @@
         {
             "speaker": "S",
             "text": "sure let me go ahead and search that for you. all right nothing's showing up with all of those specifications is there something i can change instead",
-            "template": "sure let me go ahead and search that for you. all right nothing's showing up wi all of those specifications is there something i can change instead",
+            "template": "sure let me go ahead and search that for you. all right nothing's showing up with all of those specifications is there something i can change instead",
             "id_map": {}
         },
         {
@@ -9993,7 +9996,7 @@
         {
             "speaker": "S",
             "text": "sure so i'm showing just one location with all those attributes i found a buena vista motor inn in the marina and it's cheap with a two star rating",
-            "template": "sure so i'm showing just 1 location wi all those attributes i found a <hotel-110018> in the marina and it's cheap wi a 2 star rating",
+            "template": "sure so i'm showing just 1 location with all those attributes i found a <hotel-110018> in the marina and it's cheap with a 2 star rating",
             "id_map": {
                 "<hotel-110018>": "buena vista motor inn"
             }
@@ -10315,7 +10318,7 @@
                     "score": -34.28399555569427
                 }
             ],
-            "template": "yeah about thing ni also need to check if it's wheelchair accessible do you be able to check that wi then ummm",
+            "template": "yeah about thing ni also need to check if it's wheelchair accessible do you be able to check that with then ummm",
             "id_map": {}
         }
     ],
@@ -10373,7 +10376,7 @@
         {
             "speaker": "S",
             "text": "yeah i'd be happy to help you out with that i'm seeing a few locations there's magowan's maze the carousel or the dungeon which i really recommend",
-            "template": "yeah i'd be happy to help you out wi that i'm seeing a few locations there's magowan's maze the carousel or the dungeon which i really recommend",
+            "template": "yeah i'd be happy to help you out with that i'm seeing a few locations there's magowan's maze the carousel or the dungeon which i really recommend",
             "id_map": {}
         },
         {
@@ -11109,7 +11112,7 @@
                     "score": -37.28984756309612
                 }
             ],
-            "template": "hi i'm looking for a place to stay that's in the moderate price range wi 4 stars in <attraction-100189>",
+            "template": "hi i'm looking for a place to stay that's in the moderate price range with 4 stars in <attraction-100189>",
             "id_map": {
                 "<attraction-100189>": "union square"
             }
@@ -11227,7 +11230,7 @@
         {
             "speaker": "S",
             "text": "so their address is one two fourth street zip code nine four one zero three the phone number is four one five three four eight one one one one and the type of accommodation is a hotel",
-            "template": "so their address is 124 street zip code 94103 the phone number is 4153481111 and the type of accommodation is a hotel",
+            "template": "so their address is 12 fourth street zip code 94103 the phone number is 4153481111 and the type of accommodation is a hotel",
             "id_map": {}
         },
         {
@@ -11699,7 +11702,7 @@
         {
             "speaker": "S",
             "text": "sure i'd be happy to help you out with that request sir now in the mission area i'm not finding anything in the moderate price range is there something else i could check for",
-            "template": "sure i'd be happy to help you out wi that request sir now in the mission area i'm not finding anything in the moderate price range is there something else i could check for",
+            "template": "sure i'd be happy to help you out with that request sir now in the mission area i'm not finding anything in the moderate price range is there something else i could check for",
             "id_map": {}
         },
         {
@@ -11797,7 +11800,7 @@
                     "score": -66.32363785269648
                 }
             ],
-            "template": "hey there i i'm go hing to <attraction-100180> and i'm looking for a place to stay in the western addition looking for something that's a moderate price range uh hop play thet and breakfast wi at least 3 stars or higher do you have any options",
+            "template": "hey there i i'm go hing to <attraction-100180> and i'm looking for a place to stay in the western addition looking for something that's a moderate price range uh hop play thet and breakfast with at least 3 stars or higher do you have any options",
             "id_map": {
                 "<attraction-100180>": "san francisco"
             }
@@ -12417,7 +12420,7 @@
                     "score": -130.90779813298195
                 }
             ],
-            "template": "got it thank you uh can you also help me wi booking a a reservation for a table for 6 n uh monday at 530 p m",
+            "template": "got it thank you uh can you also help me with booking a a reservation for a table for 6 n uh monday at 530 p m",
             "id_map": {}
         },
         {
@@ -12948,7 +12951,7 @@
         {
             "speaker": "S",
             "text": "ok sure let me go and see what i can pull up for you. all right so unfortunately nothing is showing up with all of those specifications is there something i can change",
-            "template": "ok sure let me go and see what i can pull up for you. all right so unfortunately nothing is showing up wi all of those specifications is there something i can change",
+            "template": "ok sure let me go and see what i can pull up for you. all right so unfortunately nothing is showing up with all of those specifications is there something i can change",
             "id_map": {}
         },
         {
@@ -13752,7 +13755,7 @@
         {
             "speaker": "S",
             "text": "of course the phone number is four one five seven eight one five five five five with the zip code nine four one zero eight",
-            "template": "of course the phone number is 4157815555 wi the zip code 94108",
+            "template": "of course the phone number is 4157815555 with the zip code 94108",
             "id_map": {}
         },
         {
@@ -13988,7 +13991,7 @@
                     "score": -48.83373279520482
                 }
             ],
-            "template": "ok and i'd like to stay in western addition and wi a moderate price range it a hotel has a star of 2",
+            "template": "ok and i'd like to stay in western addition and with a moderate price range it a hotel has a star of 2",
             "id_map": {}
         },
         {
@@ -14528,7 +14531,7 @@
                     "score": -33.15439438247276
                 }
             ],
-            "template": "i' do well i'm looking for an expensive ha pa place in inner richmond can you help me wi that",
+            "template": "i' do well i'm looking for an expensive ha pa place in inner richmond can you help me with that",
             "id_map": {}
         },
         {
@@ -14800,7 +14803,7 @@
         {
             "speaker": "S",
             "text": "ok let me see what i can find for you. all right with all of those specifications i can't find anything is there something i can change",
-            "template": "ok let me see what i can find for you. all right wi all of those specifications i can't find anything is there something i can change",
+            "template": "ok let me see what i can find for you. all right with all of those specifications i can't find anything is there something i can change",
             "id_map": {}
         },
         {
@@ -14958,7 +14961,7 @@
                     "score": -35.019955675217574
                 }
             ],
-            "template": "excellent and ummm do you i the check out plen is",
+            "template": "excellent and ummm do you ith the check out plen is",
             "id_map": {}
         },
         {
@@ -15062,7 +15065,7 @@
                     "score": -54.32711211596023
                 }
             ],
-            "template": "hi uh i'm looking for a place to stay in <attraction-100140> umm o cally pretty cheap wi umm 3 star rating",
+            "template": "hi uh i'm looking for a place to stay in <attraction-100140> umm o cally pretty cheap with umm 3 star rating",
             "id_map": {
                 "<attraction-100140>": "chinatown"
             }
@@ -15070,7 +15073,7 @@
         {
             "speaker": "S",
             "text": "sure let me see what i can find for you all right so nothing's showing up with those specifications is there something i can change for you",
-            "template": "sure let me see what i can find for you all right so nothing's showing up wi those specifications is there something i can change for you",
+            "template": "sure let me see what i can find for you all right so nothing's showing up with those specifications is there something i can change for you",
             "id_map": {}
         },
         {
@@ -15118,7 +15121,7 @@
                     "score": -36.67570794797079
                 }
             ],
-            "template": "and how about something in umm mo moderate price range",
+            "template": "and how about something in umm moth moderate price range",
             "id_map": {}
         },
         {
@@ -15321,7 +15324,7 @@
         {
             "speaker": "S",
             "text": "ok let's see what i can find all right nothing is showing up with those specifications is there something i could change",
-            "template": "ok let's see what i can find all right nothing is showing up wi those specifications is there something i could change",
+            "template": "ok let's see what i can find all right nothing is showing up with those specifications is there something i could change",
             "id_map": {}
         },
         {
@@ -15403,7 +15406,7 @@
                     "score": -51.93914467043638
                 }
             ],
-            "template": "oh hi uh i'm looking for a place to stay in pacific heights uh museum in wi 2 star rating",
+            "template": "oh hi uh i'm looking for a place to stay in pacific heights uh museum in with 2 star rating",
             "id_map": {}
         },
         {
@@ -15805,7 +15808,7 @@
                     "score": -48.83373279520482
                 }
             ],
-            "template": "ok and i'd like to stay in western addition and wi a moderate price range it a hotel has a star of 2",
+            "template": "ok and i'd like to stay in western addition and with a moderate price range it a hotel has a star of 2",
             "id_map": {}
         },
         {
@@ -15993,7 +15996,7 @@
         {
             "speaker": "S",
             "text": "sure i'll be happy to help you out with that i am finding one location in mission terrace it's called golden state grill",
-            "template": "sure i'll be happy to help you out wi that i am finding 1 location in mission terrace it's called <restaurant-120143>",
+            "template": "sure i'll be happy to help you out with that i am finding 1 location in mission terrace it's called <restaurant-120143>",
             "id_map": {
                 "<restaurant-120143>": "golden state grill"
             }
@@ -16523,7 +16526,7 @@
                     "score": -39.332529383607344
                 }
             ],
-            "template": "hi i'ld like to find a place to stay in soma in the moderate price range that's a hotel wi a star of 2",
+            "template": "hi i'ld like to find a place to stay in soma in the moderate price range that's a hotel with a star of 2",
             "id_map": {}
         },
         {
@@ -16623,7 +16626,7 @@
                     "score": -22.150945228750693
                 }
             ],
-            "template": "can you find a place wi no trac church",
+            "template": "can you find a place with no trac church",
             "id_map": {}
         },
         {
@@ -16763,7 +16766,7 @@
         {
             "speaker": "S",
             "text": "yeah i'd be happy to help you with that i see two locations for beaches in the presidio there is one called baker beach and one called crissy field",
-            "template": "yeah i'd be happy to help you wi that i see 2 locations for beaches in the <attraction-100177> there is 1 called <attraction-100012> and 1 called crissy field",
+            "template": "yeah i'd be happy to help you with that i see 2 locations for beaches in the <attraction-100177> there is 1 called <attraction-100012> and 1 called crissy field",
             "id_map": {
                 "<attraction-100012>": "baker beach",
                 "<attraction-100177>": "presidio"
@@ -17931,7 +17934,7 @@
                     "score": -48.87095707927645
                 }
             ],
-            "template": "ummm is there a place to eaten park side maybe wi cheap pricing and serves breakfast and branch",
+            "template": "ummm is there a place to eaten park side maybe with cheap pricing and serves breakfast and branch",
             "id_map": {}
         },
         {
@@ -18285,7 +18288,7 @@
         {
             "speaker": "S",
             "text": "let me see here ok nothing shows up with those specifications is there anything i can change to find you something",
-            "template": "let me see here ok nothing shows up wi those specifications is there anything i can change to find you something",
+            "template": "let me see here ok nothing shows up with those specifications is there anything i can change to find you something",
             "id_map": {}
         },
         {
@@ -19221,7 +19224,7 @@
         {
             "speaker": "S",
             "text": "sure phone number is four one five five seven one eight seven eight zero with the zip code nine four one one eight",
-            "template": "sure phone number is 4155718780 wi the zip code 94118",
+            "template": "sure phone number is 4155718780 with the zip code 94118",
             "id_map": {}
         },
         {
@@ -19602,7 +19605,7 @@
                     "score": -73.86344317774567
                 }
             ],
-            "template": "ok that's fine m i'm also looking for uh bier tobar in the same area that's ono moderately priced ummm can you give me summ uh recommendations fo that",
+            "template": "ok that's fine m i'm also looking for uh bier tobar in the same area that's ono moderately priced ummm can you give me summ uh recommendations foth that",
             "id_map": {}
         },
         {
@@ -19684,7 +19687,7 @@
         {
             "speaker": "S",
             "text": "certainly sir i'd be happy to help you out with that i'm finding two locations one's called kin khao and the other one's rooster and rice which would you like",
-            "template": "certainly sir i'd be happy to help you out wi that i'm finding 2 locations one's called <restaurant-120191> and the other one's <restaurant-120353|120354|120355|120356|120357> which would you like",
+            "template": "certainly sir i'd be happy to help you out with that i'm finding 2 locations one's called <restaurant-120191> and the other one's <restaurant-120353|120354|120355|120356|120357> which would you like",
             "id_map": {
                 "<restaurant-120353|120354|120355|120356|120357>": "rooster and rice",
                 "<restaurant-120191>": "kin khao"
@@ -19793,7 +19796,7 @@
         {
             "speaker": "S",
             "text": "sure i'd be happy to help you out with that request sir now in the mission area i'm not finding anything in the moderate price range is there something else i could check for",
-            "template": "sure i'd be happy to help you out wi that request sir now in the mission area i'm not finding anything in the moderate price range is there something else i could check for",
+            "template": "sure i'd be happy to help you out with that request sir now in the mission area i'm not finding anything in the moderate price range is there something else i could check for",
             "id_map": {}
         },
         {
@@ -20111,7 +20114,7 @@
                     "score": -57.729052133794674
                 }
             ],
-            "template": "hi uh i'm looking for a place to stay in <attraction-100059> area kind of in the moderate range uh wi about a 3 star rating",
+            "template": "hi uh i'm looking for a place to stay in <attraction-100059> area kind of in the moderate range uh with about a 3 star rating",
             "id_map": {
                 "<attraction-100059>": "fisherman's wharf"
             }
@@ -20119,7 +20122,7 @@
         {
             "speaker": "S",
             "text": "sure i'd be happy to help you out with that i'm finding three hotels uhhh would you like either the courtyard by marriott the holiday inn express or the regular holiday inn",
-            "template": "sure i'd be happy to help you out wi that i'm finding 3 hotels uhhh would you like either the courtyard by marriott the holiday inn express or the regular holiday inn",
+            "template": "sure i'd be happy to help you out with that i'm finding 3 hotels uhhh would you like either the courtyard by marriott the holiday inn express or the regular holiday inn",
             "id_map": {}
         },
         {
@@ -20221,13 +20224,13 @@
                     "score": -32.63568297692873
                 }
             ],
-            "template": "o it's yeah let's go wi that can you actually uh give me the address",
+            "template": "o it's yeah let's go with that can you actually uh give me the address",
             "id_map": {}
         },
         {
             "speaker": "S",
             "text": "of course they're located at five fifty north point street",
-            "template": "of course they're located at 550 nor point street",
+            "template": "of course they're located at 550 north point street",
             "id_map": {}
         },
         {
@@ -20540,7 +20543,7 @@
         {
             "speaker": "S",
             "text": "ok let me see what i can find for you. all right with all of those specifications i can't find anything is there something i can change",
-            "template": "ok let me see what i can find for you. all right wi all of those specifications i can't find anything is there something i can change",
+            "template": "ok let me see what i can find for you. all right with all of those specifications i can't find anything is there something i can change",
             "id_map": {}
         },
         {
@@ -20698,7 +20701,7 @@
                     "score": -35.019955675217574
                 }
             ],
-            "template": "excellent and ummm do you i the check out plen is",
+            "template": "excellent and ummm do you ith the check out plen is",
             "id_map": {}
         },
         {
@@ -21119,9 +21122,10 @@
                     "score": -72.25403397431486
                 }
             ],
-            "template": "hi uh i've looking uh to go to <attraction-100180> for the weekend and i was wondering if you could uh we're you know find a place uh in the nor beach telegraph hill that's a landmark",
+            "template": "hi uh i've looking uh to go to <attraction-100180> for the weekend and i was wondering if you could uh we're you know find a place uh in the <attraction-100113> telegraph hill that's a landmark",
             "id_map": {
-                "<attraction-100180>": "san francisco"
+                "<attraction-100180>": "san francisco",
+                "<attraction-100113>": "north beach"
             }
         },
         {
@@ -21275,8 +21279,10 @@
                     "score": -56.998515750783234
                 }
             ],
-            "template": "ok thank you umm also i'd wik uh like to go at to dinner and if you could find a place somewhere nor beach telegraph hill in a moderate price range that serves noodles",
-            "id_map": {}
+            "template": "ok thank you umm also i'd wik uh like to go at to dinner and if you could find a place somewhere <attraction-100113> telegraph hill in a moderate price range that serves noodles",
+            "id_map": {
+                "<attraction-100113>": "north beach"
+            }
         },
         {
             "speaker": "S",
@@ -21469,7 +21475,7 @@
         {
             "speaker": "S",
             "text": "so they have two different zip codes but they're both in the tenderloin one's a hotel and one's an inn which one would you like",
-            "template": "so they have 2 different zip codes but they're bo in the tenderloin one's a hotel and one's an inn which 1 would you like",
+            "template": "so they have 2 different zip codes but they're both in the tenderloin one's a hotel and one's an inn which 1 would you like",
             "id_map": {}
         },
         {
@@ -21977,7 +21983,7 @@
                     "score": -51.32601545176758
                 }
             ],
-            "template": "oh awesome ok and then after that umm probably we'll be tired and i'll need a place to sleepe so is there a place to stay in <attraction-100189> kinda in the moderate price range a hotel maybe wi a 2 star",
+            "template": "oh awesome ok and then after that umm probably we'll be tired and i'll need a place to sleepe so is there a place to stay in <attraction-100189> kinda in the moderate price range a hotel maybe with a 2 star",
             "id_map": {
                 "<attraction-100189>": "union square"
             }
@@ -21985,7 +21991,7 @@
         {
             "speaker": "S",
             "text": "sure what i'm finding is five different locations with those specifications i recommend you checking out the grant hotel in union square",
-            "template": "sure what i'm finding is 5 different locations wi those specifications i recommend you checking out the <hotel-110053> in <attraction-100189>",
+            "template": "sure what i'm finding is 5 different locations with those specifications i recommend you checking out the <hotel-110053> in <attraction-100189>",
             "id_map": {
                 "<hotel-110053>": "grant hotel",
                 "<attraction-100189>": "union square"
@@ -22142,8 +22148,10 @@
                     "score": -58.34494550788291
                 }
             ],
-            "template": "hi i'm looking for a ta plan uh some price ruthy vange for my friend in nor beach umm h like valley food but i also want to the moderately priced",
-            "id_map": {}
+            "template": "hi i'm looking for a ta plan uh some price ruthy vange for my friend in <attraction-100113> umm h like valley food but i also want to the moderately priced",
+            "id_map": {
+                "<attraction-100113>": "north beach"
+            }
         },
         {
             "speaker": "S",
@@ -22922,7 +22930,7 @@
                     "score": -34.229688855402415
                 }
             ],
-            "template": "and do you know if it's free or if they have any military discounts wore thi landmark",
+            "template": "and do you know if it's free or if they have any military discounts wore thith landmark",
             "id_map": {}
         },
         {
@@ -23230,7 +23238,7 @@
         {
             "speaker": "S",
             "text": "sure i'd be happy to help you out with that i'm finding two spots one's called embarcadero waterfront and the other is embarcadero public promenade",
-            "template": "sure i'd be happy to help you out wi that i'm finding 2 spots one's called <attraction-100171> and the other is <attraction-100052>",
+            "template": "sure i'd be happy to help you out with that i'm finding 2 spots one's called <attraction-100171> and the other is <attraction-100052>",
             "id_map": {
                 "<attraction-100052>": "embarcadero public promenade",
                 "<attraction-100171>": "embarcadero waterfront"
@@ -23333,7 +23341,7 @@
         {
             "speaker": "S",
             "text": "sure they're both in the nine four one one one area",
-            "template": "sure they're bo in the 94111 area",
+            "template": "sure they're both in the 94111 area",
             "id_map": {}
         },
         {
@@ -23381,7 +23389,7 @@
                     "score": -50.12907951469994
                 }
             ],
-            "template": "uh and i also need to find help wi finding a hotel in the same area that's in the cheaper price range",
+            "template": "uh and i also need to find help with finding a hotel in the same area that's in the cheaper price range",
             "id_map": {}
         },
         {
@@ -23763,7 +23771,7 @@
         {
             "speaker": "S",
             "text": "sure address is three three two one sixteenth street",
-            "template": "sure address is 332116 street",
+            "template": "sure address is 3321 sixteenth street",
             "id_map": {}
         },
         {
@@ -24063,7 +24071,7 @@
                     "score": -97.27861257512035
                 }
             ],
-            "template": "great thank you can you help me wi uh reservation for 6 people today at 1130 m",
+            "template": "great thank you can you help me with uh reservation for 6 people today at 1130 m",
             "id_map": {}
         },
         {
@@ -24171,7 +24179,7 @@
                     "score": -64.11005865544749
                 }
             ],
-            "template": "awesome thank you i'm also looking for uh a hotel in the same area umm perfectly also wi moderate in moderate price range",
+            "template": "awesome thank you i'm also looking for uh a hotel in the same area umm perfectly also with moderate in moderate price range",
             "id_map": {}
         },
         {
@@ -24321,7 +24329,7 @@
         {
             "speaker": "S",
             "text": "sure phone number is four one five three nine two four six six six with the zip code nine four one zero eight",
-            "template": "sure phone number is 4153924666 wi the zip code 94108",
+            "template": "sure phone number is 4153924666 with the zip code 94108",
             "id_map": {}
         },
         {
@@ -24419,7 +24427,7 @@
                     "score": -66.32363785269648
                 }
             ],
-            "template": "hey there i i'm go hing to <attraction-100180> and i'm looking for a place to stay in the western addition looking for something that's a moderate price range uh hop play thet and breakfast wi at least 3 stars or higher do you have any options",
+            "template": "hey there i i'm go hing to <attraction-100180> and i'm looking for a place to stay in the western addition looking for something that's a moderate price range uh hop play thet and breakfast with at least 3 stars or higher do you have any options",
             "id_map": {
                 "<attraction-100180>": "san francisco"
             }
@@ -24974,7 +24982,7 @@
                     "score": -73.86344317774567
                 }
             ],
-            "template": "ok that's fine m i'm also looking for uh bier tobar in the same area that's ono moderately priced ummm can you give me summ uh recommendations fo that",
+            "template": "ok that's fine m i'm also looking for uh bier tobar in the same area that's ono moderately priced ummm can you give me summ uh recommendations foth that",
             "id_map": {}
         }
     ],
@@ -25360,7 +25368,7 @@
         {
             "speaker": "S",
             "text": "yeah of course the address is listed as three three two four seventeenth street",
-            "template": "yeah of course the address is listed as 332417 street",
+            "template": "yeah of course the address is listed as 3324 seventeenth street",
             "id_map": {}
         },
         {
@@ -25446,13 +25454,13 @@
                     "score": -50.081690327852776
                 }
             ],
-            "template": "ok that's no problem and while i have you on to pond made you could help me find a place to stay as well uh tou looking in the mission area something maybe wi 3 star rating and cheap would be better that expensive",
+            "template": "ok that's no problem and while i have you on to pond made you could help me find a place to stay as well uh tou looking in the mission area something maybe with 3 star rating and cheap would be better that expensive",
             "id_map": {}
         },
         {
             "speaker": "S",
             "text": "ok let me go ahead and see what i can find ok unfortunately nothing is showing up with all of those specifications is there something i can change",
-            "template": "ok let me go ahead and see what i can find ok unfortunately nothing is showing up wi all of those specifications is there something i can change",
+            "template": "ok let me go ahead and see what i can find ok unfortunately nothing is showing up with all of those specifications is there something i can change",
             "id_map": {}
         },
         {
@@ -25500,7 +25508,7 @@
                     "score": -42.594307475651625
                 }
             ],
-            "template": "uh while i do book cheap so are you able to look for something t wi a 2 star rating instead",
+            "template": "uh while i do book cheap so are you able to look for something t with a 2 star rating instead",
             "id_map": {}
         },
         {
@@ -25882,7 +25890,7 @@
                     "score": -45.131144017471726
                 }
             ],
-            "template": "ok thank you very much ok uh could you recommend a place to stay in <attraction-100189> that's expensive that's a hotel wi a least 4 stars",
+            "template": "ok thank you very much ok uh could you recommend a place to stay in <attraction-100189> that's expensive that's a hotel with a least 4 stars",
             "id_map": {
                 "<attraction-100189>": "union square"
             }
@@ -26739,7 +26747,7 @@
         {
             "speaker": "S",
             "text": "i'd be happy to help you with that now in the tenderloin area the options for moroccan food are quite limited i'm not finding anything",
-            "template": "i'd be happy to help you wi that now in the tenderloin area the options for moroccan food are quite limited i'm not finding anything",
+            "template": "i'd be happy to help you with that now in the tenderloin area the options for moroccan food are quite limited i'm not finding anything",
             "id_map": {}
         },
         {
@@ -26787,7 +26795,7 @@
                     "score": -52.91317687336829
                 }
             ],
-            "template": "that's cheap that how about 10 o the unchro",
+            "template": "that's cheap that how about th o the unchro",
             "id_map": {}
         },
         {
@@ -27633,7 +27641,7 @@
         {
             "speaker": "S",
             "text": "sure let me see what i can find. all right nothing with those specifications could i put something else in there for you",
-            "template": "sure let me see what i can find. all right nothing wi those specifications could i put something else in there for you",
+            "template": "sure let me see what i can find. all right nothing with those specifications could i put something else in there for you",
             "id_map": {}
         },
         {
@@ -27788,7 +27796,7 @@
                     "score": -40.01294048437444
                 }
             ],
-            "template": "hi i'm looking for a hotel in the tenderloin area that's moderately priced he'll ply wi a 3 star rating",
+            "template": "hi i'm looking for a hotel in the tenderloin area that's moderately priced he'll ply with a 3 star rating",
             "id_map": {}
         },
         {
@@ -28416,7 +28424,7 @@
         {
             "speaker": "S",
             "text": "sure let me go ahead and see if it's listed here. all right so unfortunately they don't have their phone number listed with us",
-            "template": "sure let me go ahead and see if it's listed here. all right so unfortunately they don't have their phone number listed wi us",
+            "template": "sure let me go ahead and see if it's listed here. all right so unfortunately they don't have their phone number listed with us",
             "id_map": {}
         },
         {
@@ -28556,7 +28564,7 @@
                     "score": -45.23020286007829
                 }
             ],
-            "template": "hello so r if you cou help me find hotel an uh <attraction-100059> that's a moderately priced wi a 3 star rating",
+            "template": "hello so r if you cou help me find hotel an uh <attraction-100059> that's a moderately priced with a 3 star rating",
             "id_map": {
                 "<attraction-100059>": "fisherman's wharf"
             }
@@ -28686,7 +28694,7 @@
                     "score": -42.314665031560935
                 }
             ],
-            "template": "hi i'm in <attraction-100180> for the 1 time i'm looking for a place to go heno in <attraction-100140> wi some local flavor please",
+            "template": "hi i'm in <attraction-100180> for the 1 time i'm looking for a place to go heno in <attraction-100140> with some local flavor please",
             "id_map": {
                 "<attraction-100180>": "san francisco",
                 "<attraction-100140>": "chinatown"
@@ -28729,7 +28737,7 @@
                     "score": -34.84847797615066
                 }
             ],
-            "template": "cool is it kid friendly i've got 3 kids wi me",
+            "template": "cool is it kid friendly i've got 3 kids with me",
             "id_map": {}
         },
         {
@@ -28916,13 +28924,13 @@
                     "score": -35.32726012982441
                 }
             ],
-            "template": "hey i'm looking for a place to stay in sou beach that's a hotel wi a 4 star rat in",
+            "template": "hey i'm looking for a place to stay in south beach that's a hotel with a 4 star rat in",
             "id_map": {}
         },
         {
             "speaker": "S",
             "text": "sure i'll be happy to help you out with that so i'm finding three locations uhhh there's the hotel vitale and hotel via and i i recommend excuse me the harbor court hotel",
-            "template": "sure i'll be happy to help you out wi that so i'm finding 3 locations uhhh there's the <hotel-110094> and hotel via and i i recommend excuse me the <hotel-110059>",
+            "template": "sure i'll be happy to help you out with that so i'm finding 3 locations uhhh there's the <hotel-110094> and hotel via and i i recommend excuse me the <hotel-110059>",
             "id_map": {
                 "<hotel-110059>": "harbor court hotel",
                 "<hotel-110094>": "hotel vitale"
@@ -29133,7 +29141,7 @@
                     "score": -25.87873792776852
                 }
             ],
-            "template": "ok ummm can you get the address and also what type wi e cussy unis is",
+            "template": "ok ummm can you get the address and also what type with e cussy unis is",
             "id_map": {}
         },
         {
@@ -29553,7 +29561,7 @@
         {
             "speaker": "S",
             "text": "sure let me see what i can find. all right nothing with those specifications could i put something else in there for you",
-            "template": "sure let me see what i can find. all right nothing wi those specifications could i put something else in there for you",
+            "template": "sure let me see what i can find. all right nothing with those specifications could i put something else in there for you",
             "id_map": {}
         },
         {
@@ -29770,7 +29778,7 @@
         {
             "speaker": "S",
             "text": "yeah i'd be happy to help you with that i see two locations for beaches in the presidio there is one called baker beach and one called crissy field",
-            "template": "yeah i'd be happy to help you wi that i see 2 locations for beaches in the <attraction-100177> there is 1 called <attraction-100012> and 1 called crissy field",
+            "template": "yeah i'd be happy to help you with that i see 2 locations for beaches in the <attraction-100177> there is 1 called <attraction-100012> and 1 called crissy field",
             "id_map": {
                 "<attraction-100012>": "baker beach",
                 "<attraction-100177>": "presidio"
@@ -29981,7 +29989,7 @@
                     "score": -48.54532378386854
                 }
             ],
-            "template": "hi uh i'm planning a trip to <attraction-100180> and i was looking for a hotel in sou beach that would have 5 stars",
+            "template": "hi uh i'm planning a trip to <attraction-100180> and i was looking for a hotel in south beach that would have 5 stars",
             "id_map": {
                 "<attraction-100180>": "san francisco"
             }
@@ -29989,7 +29997,7 @@
         {
             "speaker": "S",
             "text": "ok sure let me see what i can find for you. ok unfortunately nothing is showing up with all those specifications is there something i can change",
-            "template": "ok sure let me see what i can find for you. ok unfortunately nothing is showing up wi all those specifications is there something i can change",
+            "template": "ok sure let me see what i can find for you. ok unfortunately nothing is showing up with all those specifications is there something i can change",
             "id_map": {}
         },
         {
@@ -30135,7 +30143,7 @@
         {
             "speaker": "S",
             "text": "yeah i'd be happy to help you out with that i'm seeing a few locations there's magowan's maze the carousel or the dungeon which i really recommend",
-            "template": "yeah i'd be happy to help you out wi that i'm seeing a few locations there's magowan's maze the carousel or the dungeon which i really recommend",
+            "template": "yeah i'd be happy to help you out with that i'm seeing a few locations there's magowan's maze the carousel or the dungeon which i really recommend",
             "id_map": {}
         },
         {
@@ -30459,7 +30467,7 @@
                     "score": -49.19625597129662
                 }
             ],
-            "template": "hi umm i'm calling to see uh about a trip to <attraction-100180> umm i was looking for a place a hotel in <attraction-100189> in the moderate price range wi 4 stars",
+            "template": "hi umm i'm calling to see uh about a trip to <attraction-100180> umm i was looking for a place a hotel in <attraction-100189> in the moderate price range with 4 stars",
             "id_map": {
                 "<attraction-100180>": "san francisco",
                 "<attraction-100189>": "union square"
@@ -31257,7 +31265,7 @@
                     "score": -45.131144017471726
                 }
             ],
-            "template": "ok thank you very much ok uh could you recommend a place to stay in <attraction-100189> that's expensive that's a hotel wi a least 4 stars",
+            "template": "ok thank you very much ok uh could you recommend a place to stay in <attraction-100189> that's expensive that's a hotel with a least 4 stars",
             "id_map": {
                 "<attraction-100189>": "union square"
             }
@@ -31470,7 +31478,7 @@
         {
             "speaker": "S",
             "text": "sure let me go ahead and search that for you. all right nothing's showing up with all of those specifications is there something i can change instead",
-            "template": "sure let me go ahead and search that for you. all right nothing's showing up wi all of those specifications is there something i can change instead",
+            "template": "sure let me go ahead and search that for you. all right nothing's showing up with all of those specifications is there something i can change instead",
             "id_map": {}
         },
         {
@@ -31846,7 +31854,7 @@
         {
             "speaker": "S",
             "text": "ok let me see what i can find for you. all right nothing is showing up with those specifications could i change something instead",
-            "template": "ok let me see what i can find for you. all right nothing is showing up wi those specifications could i change something instead",
+            "template": "ok let me see what i can find for you. all right nothing is showing up with those specifications could i change something instead",
             "id_map": {}
         },
         {
@@ -32028,9 +32036,10 @@
                     "score": -42.5191328197088
                 }
             ],
-            "template": "hi i'm planning cumming trip to <attraction-100180> and i'm looking for a landmark er were attraction in the nor beach telegraph hill men right",
+            "template": "hi i'm planning cumming trip to <attraction-100180> and i'm looking for a landmark er were attraction in the <attraction-100113> telegraph hill men right",
             "id_map": {
-                "<attraction-100180>": "san francisco"
+                "<attraction-100180>": "san francisco",
+                "<attraction-100113>": "north beach"
             }
         },
         {
@@ -32197,7 +32206,7 @@
                     "score": -48.519527761987995
                 }
             ],
-            "template": "uh let's go wi the uh wit the farms uh what type of accommodation is that",
+            "template": "uh let's go with the uh wit the farms uh what type of accommodation is that",
             "id_map": {}
         },
         {
@@ -32911,7 +32920,7 @@
                     "score": -51.93914467043638
                 }
             ],
-            "template": "oh hi uh i'm looking for a place to stay in pacific heights uh museum in wi 2 star rating",
+            "template": "oh hi uh i'm looking for a place to stay in pacific heights uh museum in with 2 star rating",
             "id_map": {}
         },
         {
@@ -33224,7 +33233,7 @@
         {
             "speaker": "S",
             "text": "sure let me go ahead and search that for you. all right nothing's showing up with all of those specifications is there something i can change instead",
-            "template": "sure let me go ahead and search that for you. all right nothing's showing up wi all of those specifications is there something i can change instead",
+            "template": "sure let me go ahead and search that for you. all right nothing's showing up with all of those specifications is there something i can change instead",
             "id_map": {}
         },
         {
@@ -33474,7 +33483,7 @@
         {
             "speaker": "S",
             "text": "ok sure let me go and see what i can pull up for you. all right so unfortunately nothing is showing up with all of those specifications is there something i can change",
-            "template": "ok sure let me go and see what i can pull up for you. all right so unfortunately nothing is showing up wi all of those specifications is there something i can change",
+            "template": "ok sure let me go and see what i can pull up for you. all right so unfortunately nothing is showing up with all of those specifications is there something i can change",
             "id_map": {}
         },
         {
@@ -33628,7 +33637,7 @@
                     "score": -37.28984756309612
                 }
             ],
-            "template": "hi i'm looking for a place to stay that's in the moderate price range wi 4 stars in <attraction-100189>",
+            "template": "hi i'm looking for a place to stay that's in the moderate price range with 4 stars in <attraction-100189>",
             "id_map": {
                 "<attraction-100189>": "union square"
             }
@@ -33746,7 +33755,7 @@
         {
             "speaker": "S",
             "text": "so their address is one two fourth street zip code nine four one zero three the phone number is four one five three four eight one one one one and the type of accommodation is a hotel",
-            "template": "so their address is 124 street zip code 94103 the phone number is 4153481111 and the type of accommodation is a hotel",
+            "template": "so their address is 12 fourth street zip code 94103 the phone number is 4153481111 and the type of accommodation is a hotel",
             "id_map": {}
         },
         {
@@ -34082,7 +34091,7 @@
                     "score": -97.27861257512035
                 }
             ],
-            "template": "great thank you can you help me wi uh reservation for 6 people today at 1130 m",
+            "template": "great thank you can you help me with uh reservation for 6 people today at 1130 m",
             "id_map": {}
         },
         {
@@ -34190,7 +34199,7 @@
                     "score": -64.11005865544749
                 }
             ],
-            "template": "awesome thank you i'm also looking for uh a hotel in the same area umm perfectly also wi moderate in moderate price range",
+            "template": "awesome thank you i'm also looking for uh a hotel in the same area umm perfectly also with moderate in moderate price range",
             "id_map": {}
         },
         {
@@ -34774,7 +34783,7 @@
         {
             "speaker": "S",
             "text": "i'd be happy to help you with that now in the tenderloin area the options for moroccan food are quite limited i'm not finding anything",
-            "template": "i'd be happy to help you wi that now in the tenderloin area the options for moroccan food are quite limited i'm not finding anything",
+            "template": "i'd be happy to help you with that now in the tenderloin area the options for moroccan food are quite limited i'm not finding anything",
             "id_map": {}
         },
         {
@@ -34822,7 +34831,7 @@
                     "score": -52.91317687336829
                 }
             ],
-            "template": "that's cheap that how about 10 o the unchro",
+            "template": "that's cheap that how about th o the unchro",
             "id_map": {}
         },
         {
@@ -35216,7 +35225,7 @@
         {
             "speaker": "S",
             "text": "sure let me go ahead and search both of them for you so baker beach is dog friendly and crissy field is also dog friendly",
-            "template": "sure let me go ahead and search bo of them for you so <attraction-100012> is dog friendly and crissy field is also dog friendly",
+            "template": "sure let me go ahead and search both of them for you so <attraction-100012> is dog friendly and crissy field is also dog friendly",
             "id_map": {
                 "<attraction-100012>": "baker beach"
             }
@@ -35248,7 +35257,7 @@
         {
             "speaker": "S",
             "text": "sure did you want for both of them",
-            "template": "sure did you want for bo of them",
+            "template": "sure did you want for both of them",
             "id_map": {}
         },
         {
@@ -35274,7 +35283,7 @@
         {
             "speaker": "S",
             "text": "ok all right they're actually both nine four one two nine",
-            "template": "ok all right they're actually bo 94129",
+            "template": "ok all right they're actually both 94129",
             "id_map": {}
         },
         {
@@ -35700,7 +35709,7 @@
                     "score": -33.15439438247276
                 }
             ],
-            "template": "i' do well i'm looking for an expensive ha pa place in inner richmond can you help me wi that",
+            "template": "i' do well i'm looking for an expensive ha pa place in inner richmond can you help me with that",
             "id_map": {}
         }
     ],
@@ -35758,8 +35767,10 @@
         {
             "speaker": "S",
             "text": "sure i'll be happy to help with that i'm noticing one park in russian hill and it's called ina coolbrith park",
-            "template": "sure i'll be happy to help wi that i'm noticing 1 park in russian hill and it's called ina coolbri park",
-            "id_map": {}
+            "template": "sure i'll be happy to help with that i'm noticing 1 park in russian hill and it's called <attraction-100082>",
+            "id_map": {
+                "<attraction-100082>": "ina coolbrith park"
+            }
         },
         {
             "speaker": "U",
@@ -36058,7 +36069,7 @@
                     "score": -67.06855504198018
                 }
             ],
-            "template": "ok 941 zerah all right umm yeah i'll be travelling wi uh my lave does u l pool ife wat's tree wh i fine",
+            "template": "ok 941 zerah all right umm yeah i'll be travelling with uh my lave does u l pool ife wat's tree wh i fine",
             "id_map": {}
         },
         {
@@ -36280,7 +36291,7 @@
         {
             "speaker": "S",
             "text": "sure i'd be happy to help you out with that i'm finding two spots one's called embarcadero waterfront and the other is embarcadero public promenade",
-            "template": "sure i'd be happy to help you out wi that i'm finding 2 spots one's called <attraction-100171> and the other is <attraction-100052>",
+            "template": "sure i'd be happy to help you out with that i'm finding 2 spots one's called <attraction-100171> and the other is <attraction-100052>",
             "id_map": {
                 "<attraction-100052>": "embarcadero public promenade",
                 "<attraction-100171>": "embarcadero waterfront"
@@ -36383,7 +36394,7 @@
         {
             "speaker": "S",
             "text": "sure they're both in the nine four one one one area",
-            "template": "sure they're bo in the 94111 area",
+            "template": "sure they're both in the 94111 area",
             "id_map": {}
         },
         {
@@ -36431,7 +36442,7 @@
                     "score": -50.12907951469994
                 }
             ],
-            "template": "uh and i also need to find help wi finding a hotel in the same area that's in the cheaper price range",
+            "template": "uh and i also need to find help with finding a hotel in the same area that's in the cheaper price range",
             "id_map": {}
         },
         {
@@ -36637,7 +36648,7 @@
         {
             "speaker": "S",
             "text": "yeah i'd be happy to help you out with that i'm seeing a few locations there's magowan's maze the carousel or the dungeon which i really recommend",
-            "template": "yeah i'd be happy to help you out wi that i'm seeing a few locations there's magowan's maze the carousel or the dungeon which i really recommend",
+            "template": "yeah i'd be happy to help you out with that i'm seeing a few locations there's magowan's maze the carousel or the dungeon which i really recommend",
             "id_map": {}
         },
         {
@@ -37061,7 +37072,7 @@
         {
             "speaker": "S",
             "text": "let me see what's available. you know i'm not finding something with those specifications",
-            "template": "let me see what's available. you know i'm not finding something wi those specifications",
+            "template": "let me see what's available. you know i'm not finding something with those specifications",
             "id_map": {}
         },
         {
@@ -37460,7 +37471,7 @@
         {
             "speaker": "S",
             "text": "did you need help with anything else",
-            "template": "did you need help wi anything else",
+            "template": "did you need help with anything else",
             "id_map": {}
         },
         {
@@ -37508,7 +37519,7 @@
                     "score": -54.04980203007391
                 }
             ],
-            "template": "umm yeah actually i'm looking for a place is this stay in the same area n <attraction-100177> wi um umm wi sa moderate prices preferably hotel",
+            "template": "umm yeah actually i'm looking for a place is this stay in the same area n <attraction-100177> with um umm with sa moderate prices preferably hotel",
             "id_map": {
                 "<attraction-100177>": "presidio"
             }
@@ -37564,7 +37575,7 @@
                     "score": -35.77739292082925
                 }
             ],
-            "template": "can you find a hotel wi moderate prices anywhere in the city",
+            "template": "can you find a hotel with moderate prices anywhere in the city",
             "id_map": {}
         },
         {
@@ -37818,7 +37829,7 @@
         {
             "speaker": "S",
             "text": "all right let me go ahead and see if either of them do. all right so neither of them specifically says if they have live music performances but they both have an average noise level and outdoor seating as well",
-            "template": "all right let me go ahead and see if either of them do. all right so neither of them specifically says if they have live music performances but they bo have an average noise level and outdoor seating as well",
+            "template": "all right let me go ahead and see if either of them do. all right so neither of them specifically says if they have live music performances but they both have an average noise level and outdoor seating as well",
             "id_map": {}
         },
         {
@@ -38196,7 +38207,7 @@
                     "score": -49.19625597129662
                 }
             ],
-            "template": "hi umm i'm calling to see uh about a trip to <attraction-100180> umm i was looking for a place a hotel in <attraction-100189> in the moderate price range wi 4 stars",
+            "template": "hi umm i'm calling to see uh about a trip to <attraction-100180> umm i was looking for a place a hotel in <attraction-100189> in the moderate price range with 4 stars",
             "id_map": {
                 "<attraction-100180>": "san francisco",
                 "<attraction-100189>": "union square"
@@ -38314,7 +38325,7 @@
         {
             "speaker": "S",
             "text": "sure i'd be happy to help you out with that i'm finding two spots one's called embarcadero waterfront and the other is embarcadero public promenade",
-            "template": "sure i'd be happy to help you out wi that i'm finding 2 spots one's called <attraction-100171> and the other is <attraction-100052>",
+            "template": "sure i'd be happy to help you out with that i'm finding 2 spots one's called <attraction-100171> and the other is <attraction-100052>",
             "id_map": {
                 "<attraction-100052>": "embarcadero public promenade",
                 "<attraction-100171>": "embarcadero waterfront"
@@ -38417,7 +38428,7 @@
         {
             "speaker": "S",
             "text": "sure they're both in the nine four one one one area",
-            "template": "sure they're bo in the 94111 area",
+            "template": "sure they're both in the 94111 area",
             "id_map": {}
         },
         {
@@ -38465,7 +38476,7 @@
                     "score": -50.12907951469994
                 }
             ],
-            "template": "uh and i also need to find help wi finding a hotel in the same area that's in the cheaper price range",
+            "template": "uh and i also need to find help with finding a hotel in the same area that's in the cheaper price range",
             "id_map": {}
         },
         {
@@ -38907,7 +38918,7 @@
         {
             "speaker": "S",
             "text": "so they have two different zip codes but they're both in the tenderloin one's a hotel and one's an inn which one would you like",
-            "template": "so they have 2 different zip codes but they're bo in the tenderloin one's a hotel and one's an inn which 1 would you like",
+            "template": "so they have 2 different zip codes but they're both in the tenderloin one's a hotel and one's an inn which 1 would you like",
             "id_map": {}
         },
         {
@@ -39353,7 +39364,7 @@
         {
             "speaker": "S",
             "text": "sure i'll be happy to help you out with that i am finding one location in mission terrace it's called golden state grill",
-            "template": "sure i'll be happy to help you out wi that i am finding 1 location in mission terrace it's called <restaurant-120143>",
+            "template": "sure i'll be happy to help you out with that i am finding 1 location in mission terrace it's called <restaurant-120143>",
             "id_map": {
                 "<restaurant-120143>": "golden state grill"
             }
@@ -39755,7 +39766,7 @@
                     "score": -40.01294048437444
                 }
             ],
-            "template": "hi i'm looking for a hotel in the tenderloin area that's moderately priced he'll ply wi a 3 star rating",
+            "template": "hi i'm looking for a hotel in the tenderloin area that's moderately priced he'll ply with a 3 star rating",
             "id_map": {}
         },
         {
@@ -39868,7 +39879,7 @@
                     "score": -57.729052133794674
                 }
             ],
-            "template": "hi uh i'm looking for a place to stay in <attraction-100059> area kind of in the moderate range uh wi about a 3 star rating",
+            "template": "hi uh i'm looking for a place to stay in <attraction-100059> area kind of in the moderate range uh with about a 3 star rating",
             "id_map": {
                 "<attraction-100059>": "fisherman's wharf"
             }
@@ -39876,7 +39887,7 @@
         {
             "speaker": "S",
             "text": "sure i'd be happy to help you out with that i'm finding three hotels uhhh would you like either the courtyard by marriott the holiday inn express or the regular holiday inn",
-            "template": "sure i'd be happy to help you out wi that i'm finding 3 hotels uhhh would you like either the courtyard by marriott the holiday inn express or the regular holiday inn",
+            "template": "sure i'd be happy to help you out with that i'm finding 3 hotels uhhh would you like either the courtyard by marriott the holiday inn express or the regular holiday inn",
             "id_map": {}
         },
         {
@@ -39978,13 +39989,13 @@
                     "score": -32.63568297692873
                 }
             ],
-            "template": "o it's yeah let's go wi that can you actually uh give me the address",
+            "template": "o it's yeah let's go with that can you actually uh give me the address",
             "id_map": {}
         },
         {
             "speaker": "S",
             "text": "of course they're located at five fifty north point street",
-            "template": "of course they're located at 550 nor point street",
+            "template": "of course they're located at 550 north point street",
             "id_map": {}
         },
         {
@@ -40176,8 +40187,10 @@
                     "score": -35.51257194598294
                 }
             ],
-            "template": "hi i'm looking for a place to stay in nor beach",
-            "id_map": {}
+            "template": "hi i'm looking for a place to stay in <attraction-100113>",
+            "id_map": {
+                "<attraction-100113>": "north beach"
+            }
         },
         {
             "speaker": "S",
@@ -40591,7 +40604,7 @@
                     "score": -68.0264603499534
                 }
             ],
-            "template": "hi mind mis terra's i'm looking for a restaurant food day inn haste l that's ahhh expensive uh its rest bar food do you help me wi that",
+            "template": "hi mind mis terra's i'm looking for a restaurant food day inn haste l that's ahhh expensive uh its rest bar food do you help me with that",
             "id_map": {}
         },
         {
@@ -40645,7 +40658,7 @@
                     "score": -34.84785101901016
                 }
             ],
-            "template": "ok can you check and see 10 sike reservation",
+            "template": "ok can you check and see th sike reservation",
             "id_map": {}
         },
         {
@@ -40951,7 +40964,7 @@
         {
             "speaker": "S",
             "text": "yeah let me see what's available with those attributes. you know what you're in luck i found one bed and breakfast and it's called inn san francisco",
-            "template": "yeah let me see what's available wi those attributes. you know what you're in luck i found 1 bed and breakfast and it's called <hotel-110111>",
+            "template": "yeah let me see what's available with those attributes. you know what you're in luck i found 1 bed and breakfast and it's called <hotel-110111>",
             "id_map": {
                 "<hotel-110111>": "inn san francisco"
             }
@@ -41051,7 +41064,7 @@
                     "score": -54.32711211596023
                 }
             ],
-            "template": "hi uh i'm looking for a place to stay in <attraction-100140> umm o cally pretty cheap wi umm 3 star rating",
+            "template": "hi uh i'm looking for a place to stay in <attraction-100140> umm o cally pretty cheap with umm 3 star rating",
             "id_map": {
                 "<attraction-100140>": "chinatown"
             }
@@ -41059,7 +41072,7 @@
         {
             "speaker": "S",
             "text": "sure let me see what i can find for you all right so nothing's showing up with those specifications is there something i can change for you",
-            "template": "sure let me see what i can find for you all right so nothing's showing up wi those specifications is there something i can change for you",
+            "template": "sure let me see what i can find for you all right so nothing's showing up with those specifications is there something i can change for you",
             "id_map": {}
         },
         {
@@ -41107,7 +41120,7 @@
                     "score": -36.67570794797079
                 }
             ],
-            "template": "and how about something in umm mo moderate price range",
+            "template": "and how about something in umm moth moderate price range",
             "id_map": {}
         },
         {
@@ -41438,7 +41451,7 @@
         {
             "speaker": "S",
             "text": "sure address is three three two one sixteenth street",
-            "template": "sure address is 332116 street",
+            "template": "sure address is 3321 sixteenth street",
             "id_map": {}
         },
         {
@@ -41622,7 +41635,7 @@
                     "score": -44.9035286525733
                 }
             ],
-            "template": "uh wi the zip code",
+            "template": "uh with the zip code",
             "id_map": {}
         },
         {
@@ -41758,7 +41771,7 @@
         {
             "speaker": "S",
             "text": "sure i'd be happy to help you out with that so i'm finding actually one exact location it's called cool cravings in lower pacific heights",
-            "template": "sure i'd be happy to help you out wi that so i'm finding actually 1 exact location it's called <restaurant-120085> in lower pacific heights",
+            "template": "sure i'd be happy to help you out with that so i'm finding actually 1 exact location it's called <restaurant-120085> in lower pacific heights",
             "id_map": {
                 "<restaurant-120085>": "cool cravings"
             }
@@ -42356,7 +42369,7 @@
                     "score": -39.332529383607344
                 }
             ],
-            "template": "hi i'ld like to find a place to stay in soma in the moderate price range that's a hotel wi a star of 2",
+            "template": "hi i'ld like to find a place to stay in soma in the moderate price range that's a hotel with a star of 2",
             "id_map": {}
         },
         {
@@ -42456,7 +42469,7 @@
                     "score": -22.150945228750693
                 }
             ],
-            "template": "can you find a place wi no trac church",
+            "template": "can you find a place with no trac church",
             "id_map": {}
         },
         {
@@ -42817,7 +42830,7 @@
                     "score": -48.0056344798661
                 }
             ],
-            "template": "ok ummm i'm gonna be bringing my dog wi be and 1 trip do you have day an lot of uh om that f that mus is",
+            "template": "ok ummm i'm gonna be bringing my dog with be and 1 trip do you have day an lot of uh om that f that mus is",
             "id_map": {}
         },
         {
@@ -43193,7 +43206,7 @@
         {
             "speaker": "S",
             "text": "certainly sir i'd be happy to help you out with that i'm finding two locations one's called kin khao and the other one's rooster and rice which would you like",
-            "template": "certainly sir i'd be happy to help you out wi that i'm finding 2 locations one's called <restaurant-120191> and the other one's <restaurant-120353|120354|120355|120356|120357> which would you like",
+            "template": "certainly sir i'd be happy to help you out with that i'm finding 2 locations one's called <restaurant-120191> and the other one's <restaurant-120353|120354|120355|120356|120357> which would you like",
             "id_map": {
                 "<restaurant-120353|120354|120355|120356|120357>": "rooster and rice",
                 "<restaurant-120191>": "kin khao"
@@ -43677,7 +43690,7 @@
         {
             "speaker": "S",
             "text": "sure i'll be happy to help you out with that i am finding one location in mission terrace it's called golden state grill",
-            "template": "sure i'll be happy to help you out wi that i am finding 1 location in mission terrace it's called <restaurant-120143>",
+            "template": "sure i'll be happy to help you out with that i am finding 1 location in mission terrace it's called <restaurant-120143>",
             "id_map": {
                 "<restaurant-120143>": "golden state grill"
             }
@@ -43785,7 +43798,7 @@
         {
             "speaker": "S",
             "text": "sure let me see what i can find for you. all right nothing is showing up with art is there a different thing that you might be interested in",
-            "template": "sure let me see what i can find for you. all right nothing is showing up wi art is there a different thing that you might be interested in",
+            "template": "sure let me see what i can find for you. all right nothing is showing up with art is there a different thing that you might be interested in",
             "id_map": {}
         },
         {
@@ -44125,7 +44138,7 @@
         {
             "speaker": "S",
             "text": "ok all right one option does show up with that it is called the alamo square seafood grill",
-            "template": "ok all right 1 option does show up wi that it is called the <restaurant-120006>",
+            "template": "ok all right 1 option does show up with that it is called the <restaurant-120006>",
             "id_map": {
                 "<restaurant-120006>": "alamo square seafood grill"
             }
@@ -44548,7 +44561,7 @@
                     "score": -68.0264603499534
                 }
             ],
-            "template": "hi mind mis terra's i'm looking for a restaurant food day inn haste l that's ahhh expensive uh its rest bar food do you help me wi that",
+            "template": "hi mind mis terra's i'm looking for a restaurant food day inn haste l that's ahhh expensive uh its rest bar food do you help me with that",
             "id_map": {}
         },
         {
@@ -44602,7 +44615,7 @@
                     "score": -34.84785101901016
                 }
             ],
-            "template": "ok can you check and see 10 sike reservation",
+            "template": "ok can you check and see th sike reservation",
             "id_map": {}
         },
         {
@@ -44962,7 +44975,7 @@
         {
             "speaker": "S",
             "text": "sure phone number is four one five five seven one eight seven eight zero with the zip code nine four one one eight",
-            "template": "sure phone number is 4155718780 wi the zip code 94118",
+            "template": "sure phone number is 4155718780 with the zip code 94118",
             "id_map": {}
         },
         {
@@ -45082,7 +45095,7 @@
                     "score": -42.0981068759455
                 }
             ],
-            "template": "nice ummm do you have a confirmation code you can share wi me",
+            "template": "nice ummm do you have a confirmation code you can share with me",
             "id_map": {}
         },
         {
@@ -45507,7 +45520,7 @@
         {
             "speaker": "S",
             "text": "sure i'm finding just one location with those attributes uhhh it's in balboa terrace and it's called gregangelo's velocity arts and entertainment",
-            "template": "sure i'm finding just 1 location wi those attributes uhhh it's in balboa terrace and it's called <attraction-100072>",
+            "template": "sure i'm finding just 1 location with those attributes uhhh it's in balboa terrace and it's called <attraction-100072>",
             "id_map": {
                 "<attraction-100072>": "gregangelo's velocity arts and entertainment"
             }
@@ -45801,7 +45814,7 @@
         {
             "speaker": "S",
             "text": "let me see here ok nothing shows up with those specifications is there anything i can change to find you something",
-            "template": "let me see here ok nothing shows up wi those specifications is there anything i can change to find you something",
+            "template": "let me see here ok nothing shows up with those specifications is there anything i can change to find you something",
             "id_map": {}
         },
         {
@@ -46135,7 +46148,7 @@
         {
             "speaker": "S",
             "text": "sure let me go ahead and search both of them for you so baker beach is dog friendly and crissy field is also dog friendly",
-            "template": "sure let me go ahead and search bo of them for you so <attraction-100012> is dog friendly and crissy field is also dog friendly",
+            "template": "sure let me go ahead and search both of them for you so <attraction-100012> is dog friendly and crissy field is also dog friendly",
             "id_map": {
                 "<attraction-100012>": "baker beach"
             }
@@ -46167,7 +46180,7 @@
         {
             "speaker": "S",
             "text": "sure did you want for both of them",
-            "template": "sure did you want for bo of them",
+            "template": "sure did you want for both of them",
             "id_map": {}
         },
         {
@@ -46193,7 +46206,7 @@
         {
             "speaker": "S",
             "text": "ok all right they're actually both nine four one two nine",
-            "template": "ok all right they're actually bo 94129",
+            "template": "ok all right they're actually both 94129",
             "id_map": {}
         },
         {
@@ -46377,7 +46390,7 @@
                     "score": -57.729052133794674
                 }
             ],
-            "template": "hi uh i'm looking for a place to stay in <attraction-100059> area kind of in the moderate range uh wi about a 3 star rating",
+            "template": "hi uh i'm looking for a place to stay in <attraction-100059> area kind of in the moderate range uh with about a 3 star rating",
             "id_map": {
                 "<attraction-100059>": "fisherman's wharf"
             }
@@ -46385,7 +46398,7 @@
         {
             "speaker": "S",
             "text": "sure i'd be happy to help you out with that i'm finding three hotels uhhh would you like either the courtyard by marriott the holiday inn express or the regular holiday inn",
-            "template": "sure i'd be happy to help you out wi that i'm finding 3 hotels uhhh would you like either the courtyard by marriott the holiday inn express or the regular holiday inn",
+            "template": "sure i'd be happy to help you out with that i'm finding 3 hotels uhhh would you like either the courtyard by marriott the holiday inn express or the regular holiday inn",
             "id_map": {}
         },
         {
@@ -46487,13 +46500,13 @@
                     "score": -32.63568297692873
                 }
             ],
-            "template": "o it's yeah let's go wi that can you actually uh give me the address",
+            "template": "o it's yeah let's go with that can you actually uh give me the address",
             "id_map": {}
         },
         {
             "speaker": "S",
             "text": "of course they're located at five fifty north point street",
-            "template": "of course they're located at 550 nor point street",
+            "template": "of course they're located at 550 north point street",
             "id_map": {}
         },
         {
@@ -46863,7 +46876,7 @@
                     "score": -25.87873792776852
                 }
             ],
-            "template": "ok ummm can you get the address and also what type wi e cussy unis is",
+            "template": "ok ummm can you get the address and also what type with e cussy unis is",
             "id_map": {}
         },
         {
@@ -47215,7 +47228,7 @@
         {
             "speaker": "S",
             "text": "so they have two different zip codes but they're both in the tenderloin one's a hotel and one's an inn which one would you like",
-            "template": "so they have 2 different zip codes but they're bo in the tenderloin one's a hotel and one's an inn which 1 would you like",
+            "template": "so they have 2 different zip codes but they're both in the tenderloin one's a hotel and one's an inn which 1 would you like",
             "id_map": {}
         },
         {
@@ -48450,7 +48463,7 @@
                     "score": -130.90779813298195
                 }
             ],
-            "template": "got it thank you uh can you also help me wi booking a a reservation for a table for 6 n uh monday at 530 p m",
+            "template": "got it thank you uh can you also help me with booking a a reservation for a table for 6 n uh monday at 530 p m",
             "id_map": {}
         },
         {
@@ -48738,7 +48751,7 @@
         {
             "speaker": "S",
             "text": "ok sure let me go ahead and see what i can find there. all right nothing is showing up with those specification is there something that i can change instead",
-            "template": "ok sure let me go ahead and see what i can find there. all right nothing is showing up wi those specification is there something that i can change instead",
+            "template": "ok sure let me go ahead and see what i can find there. all right nothing is showing up with those specification is there something that i can change instead",
             "id_map": {}
         },
         {
@@ -49056,7 +49069,7 @@
                     "score": -20.758298279119515
                 }
             ],
-            "template": "perfect 10 is there a park in that aat",
+            "template": "perfect th is there a park in that aat",
             "id_map": {}
         },
         {
@@ -49635,7 +49648,7 @@
                     "score": -34.229688855402415
                 }
             ],
-            "template": "and do you know if it's free or if they have any military discounts wore thi landmark",
+            "template": "and do you know if it's free or if they have any military discounts wore thith landmark",
             "id_map": {}
         },
         {
@@ -50088,7 +50101,7 @@
                     "score": -48.54532378386854
                 }
             ],
-            "template": "hi uh i'm planning a trip to <attraction-100180> and i was looking for a hotel in sou beach that would have 5 stars",
+            "template": "hi uh i'm planning a trip to <attraction-100180> and i was looking for a hotel in south beach that would have 5 stars",
             "id_map": {
                 "<attraction-100180>": "san francisco"
             }
@@ -50096,7 +50109,7 @@
         {
             "speaker": "S",
             "text": "ok sure let me see what i can find for you. ok unfortunately nothing is showing up with all those specifications is there something i can change",
-            "template": "ok sure let me see what i can find for you. ok unfortunately nothing is showing up wi all those specifications is there something i can change",
+            "template": "ok sure let me see what i can find for you. ok unfortunately nothing is showing up with all those specifications is there something i can change",
             "id_map": {}
         },
         {
@@ -50550,7 +50563,7 @@
                     "score": -39.332529383607344
                 }
             ],
-            "template": "hi i'ld like to find a place to stay in soma in the moderate price range that's a hotel wi a star of 2",
+            "template": "hi i'ld like to find a place to stay in soma in the moderate price range that's a hotel with a star of 2",
             "id_map": {}
         },
         {
@@ -50650,7 +50663,7 @@
                     "score": -22.150945228750693
                 }
             ],
-            "template": "can you find a place wi no trac church",
+            "template": "can you find a place with no trac church",
             "id_map": {}
         },
         {
@@ -50870,7 +50883,7 @@
                     "score": -34.93271272931113
                 }
             ],
-            "template": "hello i'm planning my trip to <attraction-100180> and i was wondering if there's ip cood museum that i can go wi you there",
+            "template": "hello i'm planning my trip to <attraction-100180> and i was wondering if there's ip cood museum that i can go with you there",
             "id_map": {
                 "<attraction-100180>": "san francisco"
             }
@@ -51257,7 +51270,7 @@
         {
             "speaker": "S",
             "text": "all right let me go ahead and see if either of them do. all right so neither of them specifically says if they have live music performances but they both have an average noise level and outdoor seating as well",
-            "template": "all right let me go ahead and see if either of them do. all right so neither of them specifically says if they have live music performances but they bo have an average noise level and outdoor seating as well",
+            "template": "all right let me go ahead and see if either of them do. all right so neither of them specifically says if they have live music performances but they both have an average noise level and outdoor seating as well",
             "id_map": {}
         },
         {
@@ -51859,7 +51872,7 @@
         {
             "speaker": "S",
             "text": "sure let me see what i can find for you. all right nothing is showing up with art is there a different thing that you might be interested in",
-            "template": "sure let me see what i can find for you. all right nothing is showing up wi art is there a different thing that you might be interested in",
+            "template": "sure let me see what i can find for you. all right nothing is showing up with art is there a different thing that you might be interested in",
             "id_map": {}
         },
         {
@@ -52633,7 +52646,7 @@
                     "score": -48.87095707927645
                 }
             ],
-            "template": "ummm is there a place to eaten park side maybe wi cheap pricing and serves breakfast and branch",
+            "template": "ummm is there a place to eaten park side maybe with cheap pricing and serves breakfast and branch",
             "id_map": {}
         },
         {
@@ -53296,7 +53309,7 @@
                     "score": -51.32601545176758
                 }
             ],
-            "template": "oh awesome ok and then after that umm probably we'll be tired and i'll need a place to sleepe so is there a place to stay in <attraction-100189> kinda in the moderate price range a hotel maybe wi a 2 star",
+            "template": "oh awesome ok and then after that umm probably we'll be tired and i'll need a place to sleepe so is there a place to stay in <attraction-100189> kinda in the moderate price range a hotel maybe with a 2 star",
             "id_map": {
                 "<attraction-100189>": "union square"
             }
@@ -53304,7 +53317,7 @@
         {
             "speaker": "S",
             "text": "sure what i'm finding is five different locations with those specifications i recommend you checking out the grant hotel in union square",
-            "template": "sure what i'm finding is 5 different locations wi those specifications i recommend you checking out the <hotel-110053> in <attraction-100189>",
+            "template": "sure what i'm finding is 5 different locations with those specifications i recommend you checking out the <hotel-110053> in <attraction-100189>",
             "id_map": {
                 "<hotel-110053>": "grant hotel",
                 "<attraction-100189>": "union square"
@@ -53947,7 +53960,7 @@
                     "score": -42.314665031560935
                 }
             ],
-            "template": "hi i'm in <attraction-100180> for the 1 time i'm looking for a place to go heno in <attraction-100140> wi some local flavor please",
+            "template": "hi i'm in <attraction-100180> for the 1 time i'm looking for a place to go heno in <attraction-100140> with some local flavor please",
             "id_map": {
                 "<attraction-100180>": "san francisco",
                 "<attraction-100140>": "chinatown"
@@ -53990,7 +54003,7 @@
                     "score": -34.84847797615066
                 }
             ],
-            "template": "cool is it kid friendly i've got 3 kids wi me",
+            "template": "cool is it kid friendly i've got 3 kids with me",
             "id_map": {}
         },
         {
@@ -54157,7 +54170,7 @@
         {
             "speaker": "S",
             "text": "they're both three stars",
-            "template": "they're bo 3 stars",
+            "template": "they're both 3 stars",
             "id_map": {}
         },
         {
@@ -54311,7 +54324,7 @@
                     "score": -51.19156787283944
                 }
             ],
-            "template": "hey i'm looking for a place to stay uh in the tenderloin that's a hotel wi a 3 star rating as and is in the cheap price range",
+            "template": "hey i'm looking for a place to stay uh in the tenderloin that's a hotel with a 3 star rating as and is in the cheap price range",
             "id_map": {}
         },
         {
@@ -54467,7 +54480,7 @@
                     "score": -30.808840144062337
                 }
             ],
-            "template": "wi thursday work",
+            "template": "with thursday work",
             "id_map": {}
         }
     ],
@@ -54659,7 +54672,7 @@
                     "score": -40.01294048437444
                 }
             ],
-            "template": "hi i'm looking for a hotel in the tenderloin area that's moderately priced he'll ply wi a 3 star rating",
+            "template": "hi i'm looking for a hotel in the tenderloin area that's moderately priced he'll ply with a 3 star rating",
             "id_map": {}
         },
         {
@@ -55274,7 +55287,7 @@
         {
             "speaker": "S",
             "text": "ok definitely so that phone number is four one five three five seven four thousand and their address and zip code is one five one third street with the post code or the zip code also uhhh as nine four one zero three",
-            "template": "ok definitely so that phone number is 4153574000 their address and zip code is 154 street wi the post code or the zip code also uhhh as 94103",
+            "template": "ok definitely so that phone number is 4153574000 their address and zip code is 154 street with the post code or the zip code also uhhh as 94103",
             "id_map": {}
         },
         {
@@ -55322,7 +55335,7 @@
                     "score": -36.94667074431602
                 }
             ],
-            "template": "perfect and 1 final consideration i'n wok you bringing my dog wi me accept allowed",
+            "template": "perfect and 1 final consideration i'n wok you bringing my dog with me accept allowed",
             "id_map": {}
         }
     ],
@@ -55474,7 +55487,7 @@
         {
             "speaker": "S",
             "text": "sure let me go ahead and search both of them for you so baker beach is dog friendly and crissy field is also dog friendly",
-            "template": "sure let me go ahead and search bo of them for you so <attraction-100012> is dog friendly and crissy field is also dog friendly",
+            "template": "sure let me go ahead and search both of them for you so <attraction-100012> is dog friendly and crissy field is also dog friendly",
             "id_map": {
                 "<attraction-100012>": "baker beach"
             }
@@ -55550,7 +55563,7 @@
                     "score": -51.19156787283944
                 }
             ],
-            "template": "hey i'm looking for a place to stay uh in the tenderloin that's a hotel wi a 3 star rating as and is in the cheap price range",
+            "template": "hey i'm looking for a place to stay uh in the tenderloin that's a hotel with a 3 star rating as and is in the cheap price range",
             "id_map": {}
         },
         {
@@ -55706,7 +55719,7 @@
                     "score": -30.808840144062337
                 }
             ],
-            "template": "wi thursday work",
+            "template": "with thursday work",
             "id_map": {}
         },
         {
@@ -56048,7 +56061,7 @@
         {
             "speaker": "S",
             "text": "sure i'll be happy to help you out with that let me see if there's one available unfortunately i do not find one in the mission in the expensive price range",
-            "template": "sure i'll be happy to help you out wi that let me see if there's 1 available unfortunately i do not find 1 in the mission in the expensive price range",
+            "template": "sure i'll be happy to help you out with that let me see if there's 1 available unfortunately i do not find 1 in the mission in the expensive price range",
             "id_map": {}
         },
         {
@@ -56146,8 +56159,10 @@
                     "score": -58.34494550788291
                 }
             ],
-            "template": "hi i'm looking for a ta plan uh some price ruthy vange for my friend in nor beach umm h like valley food but i also want to the moderately priced",
-            "id_map": {}
+            "template": "hi i'm looking for a ta plan uh some price ruthy vange for my friend in <attraction-100113> umm h like valley food but i also want to the moderately priced",
+            "id_map": {
+                "<attraction-100113>": "north beach"
+            }
         },
         {
             "speaker": "S",
@@ -56278,7 +56293,7 @@
                     "score": -37.28984756309612
                 }
             ],
-            "template": "hi i'm looking for a place to stay that's in the moderate price range wi 4 stars in <attraction-100189>",
+            "template": "hi i'm looking for a place to stay that's in the moderate price range with 4 stars in <attraction-100189>",
             "id_map": {
                 "<attraction-100189>": "union square"
             }
@@ -56396,7 +56411,7 @@
         {
             "speaker": "S",
             "text": "so their address is one two fourth street zip code nine four one zero three the phone number is four one five three four eight one one one one and the type of accommodation is a hotel",
-            "template": "so their address is 124 street zip code 94103 the phone number is 4153481111 and the type of accommodation is a hotel",
+            "template": "so their address is 12 fourth street zip code 94103 the phone number is 4153481111 and the type of accommodation is a hotel",
             "id_map": {}
         },
         {
@@ -56656,7 +56671,7 @@
         {
             "speaker": "S",
             "text": "sure let me see what i can find for you. all right nothing is showing up with art is there a different thing that you might be interested in",
-            "template": "sure let me see what i can find for you. all right nothing is showing up wi art is there a different thing that you might be interested in",
+            "template": "sure let me see what i can find for you. all right nothing is showing up with art is there a different thing that you might be interested in",
             "id_map": {}
         },
         {
@@ -57105,7 +57120,7 @@
                     "score": -43.96995980747303
                 }
             ],
-            "template": "ok thanks i'm also gonna need a place to stay uh in the same area can you find me a hotel wi a star of about 3",
+            "template": "ok thanks i'm also gonna need a place to stay uh in the same area can you find me a hotel with a star of about 3",
             "id_map": {}
         },
         {
@@ -57713,7 +57728,7 @@
         {
             "speaker": "S",
             "text": "ok so nothing is showing up with those specifications could i change something to possibly find you something",
-            "template": "ok so nothing is showing up wi those specifications could i change something to possibly find you something",
+            "template": "ok so nothing is showing up with those specifications could i change something to possibly find you something",
             "id_map": {}
         },
         {
@@ -57811,7 +57826,7 @@
                     "score": -68.0264603499534
                 }
             ],
-            "template": "hi mind mis terra's i'm looking for a restaurant food day inn haste l that's ahhh expensive uh its rest bar food do you help me wi that",
+            "template": "hi mind mis terra's i'm looking for a restaurant food day inn haste l that's ahhh expensive uh its rest bar food do you help me with that",
             "id_map": {}
         },
         {
@@ -57865,7 +57880,7 @@
                     "score": -34.84785101901016
                 }
             ],
-            "template": "ok can you check and see 10 sike reservation",
+            "template": "ok can you check and see th sike reservation",
             "id_map": {}
         },
         {
@@ -59012,9 +59027,10 @@
         {
             "speaker": "S",
             "text": "definetely i am showing one location it's called the park tavern it's in north beach",
-            "template": "definetely i am showing 1 location it's called the <restaurant-120308> it's in nor beach",
+            "template": "definetely i am showing 1 location it's called the <restaurant-120308> it's in <attraction-100113>",
             "id_map": {
-                "<restaurant-120308>": "park tavern"
+                "<restaurant-120308>": "park tavern",
+                "<attraction-100113>": "north beach"
             }
         },
         {
@@ -59238,7 +59254,7 @@
                     "score": -51.93914467043638
                 }
             ],
-            "template": "oh hi uh i'm looking for a place to stay in pacific heights uh museum in wi 2 star rating",
+            "template": "oh hi uh i'm looking for a place to stay in pacific heights uh museum in with 2 star rating",
             "id_map": {}
         },
         {
@@ -59346,7 +59362,7 @@
         {
             "speaker": "S",
             "text": "sure i'm finding just one location with those attributes uhhh it's in balboa terrace and it's called gregangelo's velocity arts and entertainment",
-            "template": "sure i'm finding just 1 location wi those attributes uhhh it's in balboa terrace and it's called <attraction-100072>",
+            "template": "sure i'm finding just 1 location with those attributes uhhh it's in balboa terrace and it's called <attraction-100072>",
             "id_map": {
                 "<attraction-100072>": "gregangelo's velocity arts and entertainment"
             }
@@ -59498,7 +59514,7 @@
                     "score": -35.84911333074063
                 }
             ],
-            "template": "ok that's fine u can you also help me find japanese restaurant wi a moderate price range in the same area",
+            "template": "ok that's fine u can you also help me find japanese restaurant with a moderate price range in the same area",
             "id_map": {}
         },
         {
@@ -59554,7 +59570,7 @@
         {
             "speaker": "S",
             "text": "of course it's forty two forty three eighteenth street",
-            "template": "of course it's 424318 street",
+            "template": "of course it's 4243 eighteenth street",
             "id_map": {}
         },
         {
@@ -59712,7 +59728,7 @@
                     "score": -48.519527761987995
                 }
             ],
-            "template": "uh let's go wi the uh wit the farms uh what type of accommodation is that",
+            "template": "uh let's go with the uh wit the farms uh what type of accommodation is that",
             "id_map": {}
         },
         {
@@ -59898,7 +59914,7 @@
         {
             "speaker": "S",
             "text": "ok sure let me go and search that up for you. all right unfortunately nothing is showing up with all of those specifications is there something i could change",
-            "template": "ok sure let me go and search that up for you. all right unfortunately nothing is showing up wi all of those specifications is there something i could change",
+            "template": "ok sure let me go and search that up for you. all right unfortunately nothing is showing up with all of those specifications is there something i could change",
             "id_map": {}
         },
         {
@@ -60008,7 +60024,7 @@
         {
             "speaker": "S",
             "text": "sure address is one five seven four california street with the zip code nine four one zero nine",
-            "template": "sure address is 1574 california street wi the zip code 94109",
+            "template": "sure address is 1574 california street with the zip code 94109",
             "id_map": {}
         },
         {
@@ -60114,7 +60130,7 @@
         {
             "speaker": "S",
             "text": "yeah i'd be happy to help you with that i see two locations for beaches in the presidio there is one called baker beach and one called crissy field",
-            "template": "yeah i'd be happy to help you wi that i see 2 locations for beaches in the <attraction-100177> there is 1 called <attraction-100012> and 1 called crissy field",
+            "template": "yeah i'd be happy to help you with that i see 2 locations for beaches in the <attraction-100177> there is 1 called <attraction-100012> and 1 called crissy field",
             "id_map": {
                 "<attraction-100012>": "baker beach",
                 "<attraction-100177>": "presidio"
@@ -60577,7 +60593,7 @@
                     "score": -25.87873792776852
                 }
             ],
-            "template": "ok ummm can you get the address and also what type wi e cussy unis is",
+            "template": "ok ummm can you get the address and also what type with e cussy unis is",
             "id_map": {}
         },
         {
@@ -60746,13 +60762,13 @@
                     "score": -35.32726012982441
                 }
             ],
-            "template": "hey i'm looking for a place to stay in sou beach that's a hotel wi a 4 star rat in",
+            "template": "hey i'm looking for a place to stay in south beach that's a hotel with a 4 star rat in",
             "id_map": {}
         },
         {
             "speaker": "S",
             "text": "sure i'll be happy to help you out with that so i'm finding three locations uhhh there's the hotel vitale and hotel via and i i recommend excuse me the harbor court hotel",
-            "template": "sure i'll be happy to help you out wi that so i'm finding 3 locations uhhh there's the <hotel-110094> and hotel via and i i recommend excuse me the <hotel-110059>",
+            "template": "sure i'll be happy to help you out with that so i'm finding 3 locations uhhh there's the <hotel-110094> and hotel via and i i recommend excuse me the <hotel-110059>",
             "id_map": {
                 "<hotel-110059>": "harbor court hotel",
                 "<hotel-110094>": "hotel vitale"
@@ -60955,9 +60971,10 @@
                     "score": -72.25403397431486
                 }
             ],
-            "template": "hi uh i've looking uh to go to <attraction-100180> for the weekend and i was wondering if you could uh we're you know find a place uh in the nor beach telegraph hill that's a landmark",
+            "template": "hi uh i've looking uh to go to <attraction-100180> for the weekend and i was wondering if you could uh we're you know find a place uh in the <attraction-100113> telegraph hill that's a landmark",
             "id_map": {
-                "<attraction-100180>": "san francisco"
+                "<attraction-100180>": "san francisco",
+                "<attraction-100113>": "north beach"
             }
         },
         {
@@ -61061,7 +61078,7 @@
         {
             "speaker": "S",
             "text": "sure i'd be happy to help you out with that request sir now in the mission area i'm not finding anything in the moderate price range is there something else i could check for",
-            "template": "sure i'd be happy to help you out wi that request sir now in the mission area i'm not finding anything in the moderate price range is there something else i could check for",
+            "template": "sure i'd be happy to help you out with that request sir now in the mission area i'm not finding anything in the moderate price range is there something else i could check for",
             "id_map": {}
         },
         {
@@ -61461,7 +61478,7 @@
         {
             "speaker": "S",
             "text": "of course the address listed is three three four nine eighteenth streenth and their zip code is nine four one one zero",
-            "template": "of course the address listed is 334918 streen and their zip code is 94110",
+            "template": "of course the address listed is 3349 eighteenth streenth and their zip code is 94110",
             "id_map": {}
         },
         {
@@ -61715,7 +61732,7 @@
                     "score": -49.19625597129662
                 }
             ],
-            "template": "hi umm i'm calling to see uh about a trip to <attraction-100180> umm i was looking for a place a hotel in <attraction-100189> in the moderate price range wi 4 stars",
+            "template": "hi umm i'm calling to see uh about a trip to <attraction-100180> umm i was looking for a place a hotel in <attraction-100189> in the moderate price range with 4 stars",
             "id_map": {
                 "<attraction-100180>": "san francisco",
                 "<attraction-100189>": "union square"
@@ -62132,7 +62149,7 @@
                     "score": -34.93271272931113
                 }
             ],
-            "template": "hello i'm planning my trip to <attraction-100180> and i was wondering if there's ip cood museum that i can go wi you there",
+            "template": "hello i'm planning my trip to <attraction-100180> and i was wondering if there's ip cood museum that i can go with you there",
             "id_map": {
                 "<attraction-100180>": "san francisco"
             }
@@ -63207,7 +63224,7 @@
                     "score": -48.519527761987995
                 }
             ],
-            "template": "uh let's go wi the uh wit the farms uh what type of accommodation is that",
+            "template": "uh let's go with the uh wit the farms uh what type of accommodation is that",
             "id_map": {}
         }
     ],
@@ -63257,7 +63274,7 @@
                     "score": -80.83751085053885
                 }
             ],
-            "template": "it ill this is a sandili in ummm i'd like to request a place to stay in soma if i can ummm do you have u something wi a 2 stars in the i'm mend it can be a little price y but it should should e at least 2 stars",
+            "template": "it ill this is a sandili in ummm i'd like to request a place to stay in soma if i can ummm do you have u something with a 2 stars in the i'm mend it can be a little price y but it should should e at least 2 stars",
             "id_map": {}
         },
         {
@@ -63363,7 +63380,7 @@
                     "score": -42.314665031560935
                 }
             ],
-            "template": "hi i'm in <attraction-100180> for the 1 time i'm looking for a place to go heno in <attraction-100140> wi some local flavor please",
+            "template": "hi i'm in <attraction-100180> for the 1 time i'm looking for a place to go heno in <attraction-100140> with some local flavor please",
             "id_map": {
                 "<attraction-100180>": "san francisco",
                 "<attraction-100140>": "chinatown"
@@ -63406,7 +63423,7 @@
                     "score": -34.84847797615066
                 }
             ],
-            "template": "cool is it kid friendly i've got 3 kids wi me",
+            "template": "cool is it kid friendly i've got 3 kids with me",
             "id_map": {}
         },
         {
@@ -63573,7 +63590,7 @@
         {
             "speaker": "S",
             "text": "they're both three stars",
-            "template": "they're bo 3 stars",
+            "template": "they're both 3 stars",
             "id_map": {}
         },
         {
@@ -63785,7 +63802,7 @@
         {
             "speaker": "S",
             "text": "sure i'll be happy to help you out with that let me see if there's one available unfortunately i do not find one in the mission in the expensive price range",
-            "template": "sure i'll be happy to help you out wi that let me see if there's 1 available unfortunately i do not find 1 in the mission in the expensive price range",
+            "template": "sure i'll be happy to help you out with that let me see if there's 1 available unfortunately i do not find 1 in the mission in the expensive price range",
             "id_map": {}
         },
         {
@@ -63889,7 +63906,7 @@
                     "score": -35.98751953325239
                 }
             ],
-            "template": "awesome woan could wo go wi the get me thea zip code phone number for that please",
+            "template": "awesome woan could wo go with the get me thea zip code phone number for that please",
             "id_map": {}
         },
         {
@@ -63985,8 +64002,10 @@
         {
             "speaker": "S",
             "text": "sure i'll be happy to help with that i'm noticing one park in russian hill and it's called ina coolbrith park",
-            "template": "sure i'll be happy to help wi that i'm noticing 1 park in russian hill and it's called ina coolbri park",
-            "id_map": {}
+            "template": "sure i'll be happy to help with that i'm noticing 1 park in russian hill and it's called <attraction-100082>",
+            "id_map": {
+                "<attraction-100082>": "ina coolbrith park"
+            }
         },
         {
             "speaker": "U",
@@ -64285,7 +64304,7 @@
                     "score": -67.06855504198018
                 }
             ],
-            "template": "ok 941 zerah all right umm yeah i'll be travelling wi uh my lave does u l pool ife wat's tree wh i fine",
+            "template": "ok 941 zerah all right umm yeah i'll be travelling with uh my lave does u l pool ife wat's tree wh i fine",
             "id_map": {}
         },
         {
@@ -64443,9 +64462,10 @@
                     "score": -72.25403397431486
                 }
             ],
-            "template": "hi uh i've looking uh to go to <attraction-100180> for the weekend and i was wondering if you could uh we're you know find a place uh in the nor beach telegraph hill that's a landmark",
+            "template": "hi uh i've looking uh to go to <attraction-100180> for the weekend and i was wondering if you could uh we're you know find a place uh in the <attraction-100113> telegraph hill that's a landmark",
             "id_map": {
-                "<attraction-100180>": "san francisco"
+                "<attraction-100180>": "san francisco",
+                "<attraction-100113>": "north beach"
             }
         },
         {
@@ -64599,8 +64619,10 @@
                     "score": -56.998515750783234
                 }
             ],
-            "template": "ok thank you umm also i'd wik uh like to go at to dinner and if you could find a place somewhere nor beach telegraph hill in a moderate price range that serves noodles",
-            "id_map": {}
+            "template": "ok thank you umm also i'd wik uh like to go at to dinner and if you could find a place somewhere <attraction-100113> telegraph hill in a moderate price range that serves noodles",
+            "id_map": {
+                "<attraction-100113>": "north beach"
+            }
         },
         {
             "speaker": "S",
@@ -65079,8 +65101,10 @@
                     "score": -35.51257194598294
                 }
             ],
-            "template": "hi i'm looking for a place to stay in nor beach",
-            "id_map": {}
+            "template": "hi i'm looking for a place to stay in <attraction-100113>",
+            "id_map": {
+                "<attraction-100113>": "north beach"
+            }
         },
         {
             "speaker": "S",
@@ -65217,7 +65241,7 @@
                     "score": -59.79917293311972
                 }
             ],
-            "template": "hi there i'm planning i'm making a trip to <attraction-100180> i'm wondering if you go to help me find a place to stay in <attraction-100189> like a hotel wi 2 stars confer ably in the moderate price range could you be able to help me go tha",
+            "template": "hi there i'm planning i'm making a trip to <attraction-100180> i'm wondering if you go to help me find a place to stay in <attraction-100189> like a hotel with 2 stars confer ably in the moderate price range could you be able to help me goth tha",
             "id_map": {
                 "<attraction-100180>": "san francisco",
                 "<attraction-100189>": "union square"
@@ -65355,7 +65379,7 @@
         {
             "speaker": "S",
             "text": "yeah let me see if that's listed here all right so it does say that the guest rooms are both heated and air conditioned there",
-            "template": "yeah let me see if that's listed here all right so it does say that the guest rooms are bo heated and air conditioned there",
+            "template": "yeah let me see if that's listed here all right so it does say that the guest rooms are both heated and air conditioned there",
             "id_map": {}
         },
         {
@@ -65457,7 +65481,7 @@
                     "score": -30.13700356930857
                 }
             ],
-            "template": "fect thank you yeah and 1 s you voe non wi that i need another prave quest",
+            "template": "fect thank you yeah and 1 s you voe non with that i need another prave quest",
             "id_map": {}
         },
         {
@@ -65511,7 +65535,7 @@
                     "score": -42.784699957854436
                 }
             ],
-            "template": "i umm uh i'ld like to go wi stor cin blob in the same area could you help me find 1 for me",
+            "template": "i umm uh i'ld like to go with stor cin blob in the same area could you help me find 1 for me",
             "id_map": {}
         },
         {
@@ -65879,7 +65903,7 @@
                     "score": -54.32711211596023
                 }
             ],
-            "template": "hi uh i'm looking for a place to stay in <attraction-100140> umm o cally pretty cheap wi umm 3 star rating",
+            "template": "hi uh i'm looking for a place to stay in <attraction-100140> umm o cally pretty cheap with umm 3 star rating",
             "id_map": {
                 "<attraction-100140>": "chinatown"
             }
@@ -65887,7 +65911,7 @@
         {
             "speaker": "S",
             "text": "sure let me see what i can find for you all right so nothing's showing up with those specifications is there something i can change for you",
-            "template": "sure let me see what i can find for you all right so nothing's showing up wi those specifications is there something i can change for you",
+            "template": "sure let me see what i can find for you all right so nothing's showing up with those specifications is there something i can change for you",
             "id_map": {}
         },
         {
@@ -65935,7 +65959,7 @@
                     "score": -36.67570794797079
                 }
             ],
-            "template": "and how about something in umm mo moderate price range",
+            "template": "and how about something in umm moth moderate price range",
             "id_map": {}
         },
         {
@@ -66138,7 +66162,7 @@
         {
             "speaker": "S",
             "text": "ok let's see what i can find all right nothing is showing up with those specifications is there something i could change",
-            "template": "ok let's see what i can find all right nothing is showing up wi those specifications is there something i could change",
+            "template": "ok let's see what i can find all right nothing is showing up with those specifications is there something i could change",
             "id_map": {}
         },
         {
@@ -66269,7 +66293,7 @@
                     "score": -59.79917293311972
                 }
             ],
-            "template": "hi there i'm planning i'm making a trip to <attraction-100180> i'm wondering if you go to help me find a place to stay in <attraction-100189> like a hotel wi 2 stars confer ably in the moderate price range could you be able to help me go tha",
+            "template": "hi there i'm planning i'm making a trip to <attraction-100180> i'm wondering if you go to help me find a place to stay in <attraction-100189> like a hotel with 2 stars confer ably in the moderate price range could you be able to help me goth tha",
             "id_map": {
                 "<attraction-100180>": "san francisco",
                 "<attraction-100189>": "union square"
@@ -66407,7 +66431,7 @@
         {
             "speaker": "S",
             "text": "yeah let me see if that's listed here all right so it does say that the guest rooms are both heated and air conditioned there",
-            "template": "yeah let me see if that's listed here all right so it does say that the guest rooms are bo heated and air conditioned there",
+            "template": "yeah let me see if that's listed here all right so it does say that the guest rooms are both heated and air conditioned there",
             "id_map": {}
         },
         {
@@ -66509,7 +66533,7 @@
                     "score": -30.13700356930857
                 }
             ],
-            "template": "fect thank you yeah and 1 s you voe non wi that i need another prave quest",
+            "template": "fect thank you yeah and 1 s you voe non with that i need another prave quest",
             "id_map": {}
         }
     ],
@@ -66725,7 +66749,7 @@
         {
             "speaker": "S",
             "text": "ok let me see what i can find for you. all right nothing is showing up with those specifications could i change something instead",
-            "template": "ok let me see what i can find for you. all right nothing is showing up wi those specifications could i change something instead",
+            "template": "ok let me see what i can find for you. all right nothing is showing up with those specifications could i change something instead",
             "id_map": {}
         },
         {
@@ -66936,7 +66960,7 @@
                     "score": -48.0056344798661
                 }
             ],
-            "template": "ok ummm i'm gonna be bringing my dog wi be and 1 trip do you have day an lot of uh om that f that mus is",
+            "template": "ok ummm i'm gonna be bringing my dog with be and 1 trip do you have day an lot of uh om that f that mus is",
             "id_map": {}
         },
         {
